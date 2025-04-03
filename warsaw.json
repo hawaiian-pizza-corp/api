@@ -1,0 +1,206 @@
+{
+  "pizzerias": [
+    {
+      "name": "Mąka i Woda",
+      "address": "ul. Chmielna 13a, 00-021 Warsaw",
+      "website": "https://www.makaiwoda.pl",
+      "phone": "+48 22 392 12 31",
+      "specialty": "Pizza Hawaii (sos pomidorowy, mozzarella fior di latte, szynka, ananas, bazylia)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:00-22:00",
+        "tuesday": "12:00-22:00",
+        "wednesday": "12:00-22:00",
+        "thursday": "12:00-22:00",
+        "friday": "12:00-23:00",
+        "saturday": "12:00-23:00",
+        "sunday": "12:00-22:00"
+      },
+      "description": "Authentic Neapolitan pizzeria with a certified wood-fired oven from Naples. Despite their traditional focus, they offer a Hawaiian pizza made with high-quality ingredients and imported Italian mozzarella.",
+      "features": ["Wood-fired oven", "Authentic Neapolitan", "Italian imports", "Central location"]
+    },
+    {
+      "name": "Pizzaiola",
+      "address": "ul. Krucza 16/22, 00-526 Warsaw",
+      "website": "https://www.pizzaiola.pl",
+      "phone": "+48 730 730 525",
+      "specialty": "Hawajska Premium (sos pomidorowy, mozzarella, włoska szynka gotowana, świeży ananas, oregano)",
+      "price_range": "€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-23:00",
+        "saturday": "12:00-23:00",
+        "sunday": "12:00-22:00"
+      },
+      "description": "Upscale pizzeria serving Roman-style pizzas with crispy, airy crusts. Their Hawaiian pizza uses fresh rather than canned pineapple and imported Italian cooked ham.",
+      "features": ["Roman-style pizza", "Premium ingredients", "Wine selection", "Business district location"]
+    },
+    {
+      "name": "Pizzeria Mamma Mia",
+      "address": "ul. Świętokrzyska 16, 00-050 Warsaw",
+      "website": "https://www.mammamia.com.pl",
+      "phone": "+48 22 657 20 89",
+      "specialty": "Tropicana (sos pomidorowy, ser mozzarella, szynka, ananas, kukurydza)",
+      "price_range": "€",
+      "rating": 4.2,
+      "hours": {
+        "monday": "10:00-22:00",
+        "tuesday": "10:00-22:00",
+        "wednesday": "10:00-22:00",
+        "thursday": "10:00-22:00",
+        "friday": "10:00-23:00",
+        "saturday": "11:00-23:00",
+        "sunday": "12:00-21:00"
+      },
+      "description": "Family-friendly pizzeria serving classic Polish-style pizzas. Their Hawaiian variation includes corn as an additional topping, a popular addition in Eastern European pizzas.",
+      "features": ["Budget-friendly", "Fast service", "Delivery available", "Family-oriented"]
+    },
+    {
+      "name": "Pizzeria Tradycyjna",
+      "address": "ul. Krakowskie Przedmieście 55, 00-071 Warsaw",
+      "website": "https://www.tradycyjna.waw.pl",
+      "phone": "+48 22 826 03 92",
+      "specialty": "Pizza Hawajska z Miodem (sos pomidorowy, mozzarella, szynka, ananas, miód)",
+      "price_range": "€€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-23:00",
+        "saturday": "12:00-23:00",
+        "sunday": "12:00-22:00"
+      },
+      "description": "Traditional Polish pizzeria in the historic Royal Route area. Their unique take on Hawaiian pizza includes a drizzle of local honey for added sweetness and complexity.",
+      "features": ["Historic location", "Local honey", "Outdoor seating", "Tourist-friendly"]
+    },
+    {
+      "name": "Dziki Lokator",
+      "address": "ul. Bracka 18, 00-028 Warsaw",
+      "website": "https://www.dzikilokator.pl",
+      "phone": "+48 731 494 131",
+      "specialty": "Dzika Hawajska (sos pomidorowy, mozzarella, wędzona szynka, ananas, jalapeno)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "12:00-23:00",
+        "tuesday": "12:00-23:00",
+        "wednesday": "12:00-23:00",
+        "thursday": "12:00-23:00",
+        "friday": "12:00-01:00",
+        "saturday": "12:00-01:00",
+        "sunday": "12:00-23:00"
+      },
+      "description": "Hip, alternative pizzeria with a creative menu. Their 'Wild Hawaiian' features smoked ham and jalapeños for a spicy twist on the classic combination.",
+      "features": ["Craft beer selection", "Hipster vibe", "Art exhibitions", "Live music weekends"]
+    },
+    {
+      "name": "Pizzeria Italiana",
+      "address": "ul. Hoża 29/31, 00-521 Warsaw",
+      "website": "https://www.pizzeriaitaliana.pl",
+      "phone": "+48 22 621 13 11",
+      "specialty": "Hawaii Speciale (sos pomidorowy, mozzarella di bufala, prosciutto cotto, świeży ananas, bazylia)",
+      "price_range": "€€€",
+      "rating": 4.7,
+      "hours": {
+        "monday": "12:00-22:00",
+        "tuesday": "12:00-22:00",
+        "wednesday": "12:00-22:00",
+        "thursday": "12:00-22:00",
+        "friday": "12:00-23:00",
+        "saturday": "13:00-23:00",
+        "sunday": "13:00-22:00"
+      },
+      "description": "Upscale Italian restaurant serving authentic Neapolitan pizzas. Their premium Hawaiian pizza uses buffalo mozzarella and high-quality Italian cooked ham.",
+      "features": ["Authentic Italian", "Premium ingredients", "Italian wine list", "Elegant atmosphere"]
+    },
+    {
+      "name": "Pizzatopia",
+      "address": "ul. Chmielna 27, 00-021 Warsaw",
+      "website": "https://www.pizzatopia.pl",
+      "phone": "+48 512 999 411",
+      "specialty": "Ananas Supreme (sos pomidorowy, mozzarella, karmelizowany ananas, włoska szynka, jalapeño)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-00:00",
+        "saturday": "11:00-00:00",
+        "sunday": "12:00-22:00"
+      },
+      "description": "Modern pizzeria with a build-your-own concept. Their signature Hawaiian pizza features caramelized pineapple and jalapeños for a sweet and spicy combination.",
+      "features": ["Build-your-own option", "Craft sodas", "Gluten-free options", "Instagrammable interior"]
+    },
+    {
+      "name": "Dominium Pizza",
+      "address": "ul. Nowy Świat 33, 00-029 Warsaw",
+      "website": "https://www.dominiumpieczarki.pl",
+      "phone": "+48 22 828 10 10",
+      "specialty": "Pizza Hawaii (sos pomidorowy, podwójny ser, szynka, ananas)",
+      "price_range": "€",
+      "rating": 4.0,
+      "hours": {
+        "monday": "10:00-23:00",
+        "tuesday": "10:00-23:00",
+        "wednesday": "10:00-23:00",
+        "thursday": "10:00-23:00",
+        "friday": "10:00-24:00",
+        "saturday": "10:00-24:00",
+        "sunday": "11:00-23:00"
+      },
+      "description": "Popular Polish pizza chain with multiple locations throughout Warsaw. Their Hawaiian pizza includes double cheese and is available in multiple sizes.",
+      "features": ["Multiple locations", "Fast delivery", "Student discounts", "Family-size options"]
+    },
+    {
+      "name": "Cuda na Kiju",
+      "address": "ul. Nowy Świat 6/12, 00-400 Warsaw",
+      "website": "https://www.cudanakiju.pl",
+      "phone": "+48 22 447 25 74",
+      "specialty": "Hawajska Rzemieślnicza (sos pomidorowy, mozzarella, grillowany ananas, szynka dojrzewająca, chili)",
+      "price_range": "€€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "12:00-01:00",
+        "tuesday": "12:00-01:00",
+        "wednesday": "12:00-01:00",
+        "thursday": "12:00-01:00",
+        "friday": "12:00-03:00",
+        "saturday": "12:00-03:00",
+        "sunday": "12:00-00:00"
+      },
+      "description": "Craft beer bar serving artisanal pizzas with creative toppings. Their Hawaiian pizza features grilled pineapple and aged ham with a touch of chili.",
+      "features": ["Extensive craft beer menu", "Late night dining", "Historic building", "Vibrant atmosphere"]
+    },
+    {
+      "name": "Warszawska Pyza i Pizza",
+      "address": "ul. Marszałkowska 10/16, 00-590 Warsaw",
+      "website": "https://www.warszawskapyza.pl",
+      "phone": "+48 22 622 59 31",
+      "specialty": "Hawajska po Warszawsku (sos pomidorowy, ser gouda, szynka, ananas, kukurydza, szczypiorek)",
+      "price_range": "€",
+      "rating": 4.1,
+      "hours": {
+        "monday": "10:00-22:00",
+        "tuesday": "10:00-22:00",
+        "wednesday": "10:00-22:00",
+        "thursday": "10:00-22:00",
+        "friday": "10:00-23:00",
+        "saturday": "11:00-23:00",
+        "sunday": "11:00-21:00"
+      },
+      "description": "Traditional Polish restaurant serving both local specialties and pizzas. Their 'Warsaw-style' Hawaiian pizza uses gouda instead of mozzarella and adds corn and chives.",
+      "features": ["Polish-Italian fusion", "Casual dining", "Traditional decor", "Tourist-friendly"]
+    }
+  ],
+  "last_updated": "2024-10-01",
+  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+}

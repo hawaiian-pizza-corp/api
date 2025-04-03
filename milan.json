@@ -1,0 +1,206 @@
+{
+  "pizzerias": [
+    {
+      "name": "Pizzium",
+      "address": "Via Procaccini, 30, 20154 Milano MI",
+      "website": "https://www.pizzium.com",
+      "phone": "+39 02 3464 1616",
+      "specialty": "Honolulu (San Marzano tomatoes, fior di latte, pineapple, cooked ham)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "12:00-15:00, 19:00-23:30",
+        "tuesday": "12:00-15:00, 19:00-23:30",
+        "wednesday": "12:00-15:00, 19:00-23:30",
+        "thursday": "12:00-15:00, 19:00-23:30",
+        "friday": "12:00-15:00, 19:00-00:00",
+        "saturday": "12:00-15:00, 19:00-00:00",
+        "sunday": "12:00-15:00, 19:00-23:30"
+      },
+      "description": "A popular chain focused on regional Italian pizzas, Pizzium offers a special Honolulu pizza for international guests, made with high-quality pineapple and premium ham.",
+      "features": ["Multiple locations", "Craft beer selection", "Regional Italian ingredients", "Modern atmosphere"]
+    },
+    {
+      "name": "Dry Milano",
+      "address": "Via Solferino, 33, 20121 Milano MI",
+      "website": "https://www.drymilano.it",
+      "phone": "+39 02 6379 3414",
+      "specialty": "Tropical (caramelized pineapple, 24-month aged prosciutto, fior di latte, basil)",
+      "price_range": "€€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "18:30-00:00",
+        "tuesday": "18:30-00:00",
+        "wednesday": "18:30-00:00",
+        "thursday": "18:30-00:00",
+        "friday": "18:30-01:00",
+        "saturday": "18:30-01:00",
+        "sunday": "18:30-00:00"
+      },
+      "description": "A contemporary pizzeria and cocktail bar that merges gourmet pizza with mixology. Their upscale take on pineapple pizza features caramelized fruit and aged prosciutto.",
+      "features": ["Craft cocktails", "Gourmet approach", "Stylish interior", "Brera district location"]
+    },
+    {
+      "name": "Gino Sorbillo Lievito Madre",
+      "address": "Largo Corsia dei Servi, 11, 20122 Milano MI",
+      "website": "https://www.sorbillo.it",
+      "phone": "+39 02 4549 5641",
+      "specialty": "Ananas e Prosciutto (fresh pineapple, prosciutto cotto, buffalo mozzarella, basil)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:00-15:30, 19:00-00:00",
+        "tuesday": "12:00-15:30, 19:00-00:00",
+        "wednesday": "12:00-15:30, 19:00-00:00",
+        "thursday": "12:00-15:30, 19:00-00:00",
+        "friday": "12:00-15:30, 19:00-00:30",
+        "saturday": "12:00-15:30, 19:00-00:30",
+        "sunday": "12:00-15:30, 19:00-00:00"
+      },
+      "description": "Legendary Neapolitan pizzaiolo Gino Sorbillo's Milan outpost near the Duomo. Known for fluffy, soft-centered Neapolitan pizzas, they offer an elevated Hawaiian for international guests.",
+      "features": ["Famous pizzaiolo", "Neapolitan style", "Central location", "Long queues common"]
+    },
+    {
+      "name": "Berberè",
+      "address": "Via Sebenico, 21, 20124 Milano MI",
+      "website": "https://www.berberepizza.it",
+      "phone": "+39 02 3659 9724",
+      "specialty": "Hawaii Gourmet (organic pineapple, ham, fior di latte, organic sourdough base)",
+      "price_range": "€€",
+      "rating": 4.7,
+      "hours": {
+        "monday": "18:30-23:00",
+        "tuesday": "18:30-23:00",
+        "wednesday": "18:30-23:00",
+        "thursday": "18:30-23:00",
+        "friday": "12:30-14:30, 18:30-23:30",
+        "saturday": "12:30-14:30, 18:30-23:30",
+        "sunday": "12:30-14:30, 18:30-23:00"
+      },
+      "description": "Artisanal pizzeria focusing on organic ingredients and sourdough that rises for at least 24 hours. Their Hawaiian pizza uses organic pineapple and high-welfare meats.",
+      "features": ["Organic ingredients", "Sourdough base", "Multiple locations", "Natural wines"]
+    },
+    {
+      "name": "Spontini",
+      "address": "Via Spontini, 4, 20143 Milano MI",
+      "website": "https://www.pizzeriaspontini.it",
+      "phone": "+39 02 2952 3058",
+      "specialty": "Trancio Ananas (thick-slice pizza with tomato sauce, mozzarella, ham, pineapple)",
+      "price_range": "€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "11:30-15:00, 18:00-22:30",
+        "tuesday": "11:30-15:00, 18:00-22:30",
+        "wednesday": "11:30-15:00, 18:00-22:30",
+        "thursday": "11:30-15:00, 18:00-22:30",
+        "friday": "11:30-15:00, 18:00-23:00",
+        "saturday": "11:30-15:00, 18:00-23:00",
+        "sunday": "11:30-15:00, 18:00-22:30"
+      },
+      "description": "Historic Milanese chain known for their large, thick-slice pizza by the cut. Their Hawaiian version comes on their signature fluffy base.",
+      "features": ["Milan institution", "Quick service", "Budget-friendly", "Thick-slice style"]
+    },
+    {
+      "name": "Pizzeria Assaje",
+      "address": "Via Privata della Braida, 5, 20122 Milano MI",
+      "website": "https://www.assaje.it",
+      "phone": "+39 02 4953 9626",
+      "specialty": "Esotica (San Marzano tomatoes, fior di latte, pineapple, prosciutto cotto, basil)",
+      "price_range": "€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "19:00-23:30",
+        "wednesday": "19:00-23:30",
+        "thursday": "19:00-23:30",
+        "friday": "12:00-15:00, 19:00-00:00",
+        "saturday": "12:00-15:00, 19:00-00:00",
+        "sunday": "12:00-15:00, 19:00-23:30"
+      },
+      "description": "Authentic Neapolitan pizzeria with an open wood-fired oven. They reluctantly added a Hawaiian pizza to please international clientele but execute it with high-quality ingredients.",
+      "features": ["Wood-fired oven", "Authentic Neapolitan", "Imported ingredients", "Cozy atmosphere"]
+    },
+    {
+      "name": "Da Zero Milano",
+      "address": "Via Luini, 9, 20123 Milano MI",
+      "website": "https://www.pizzeriadazero.it",
+      "phone": "+39 02 3652 3565",
+      "specialty": "Tropicale (San Marzano DOP, fior di latte, prosciutto cotto, fresh pineapple)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:30-14:30, 19:00-23:00",
+        "tuesday": "12:30-14:30, 19:00-23:00",
+        "wednesday": "12:30-14:30, 19:00-23:00",
+        "thursday": "12:30-14:30, 19:00-23:00",
+        "friday": "12:30-14:30, 19:00-23:30",
+        "saturday": "12:30-14:30, 19:00-23:30",
+        "sunday": "12:30-14:30, 19:00-23:00"
+      },
+      "description": "Da Zero focuses on using ingredients from Cilento, Campania. Their Hawaiian pizza maintains their commitment to quality with fresh pineapple and premium ham.",
+      "features": ["DOP ingredients", "Cilento flour", "Family recipes", "Chic interior"]
+    },
+    {
+      "name": "Fresco & Cimmino",
+      "address": "Via Pio IV, 1, 20123 Milano MI",
+      "website": "https://www.frescoecimmino.it",
+      "phone": "+39 02 4948 5516",
+      "specialty": "Pizza Surf (fior di latte, prosciutto cotto, pineapple, rosemary, black pepper)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "12:00-15:00, 19:00-23:00",
+        "tuesday": "12:00-15:00, 19:00-23:00",
+        "wednesday": "12:00-15:00, 19:00-23:00",
+        "thursday": "12:00-15:00, 19:00-23:00",
+        "friday": "12:00-15:00, 19:00-00:00",
+        "saturday": "12:00-15:00, 19:00-00:00",
+        "sunday": "12:00-15:00, 19:00-23:00"
+      },
+      "description": "Neapolitan pizzeria blending tradition with innovation. Their Hawaiian variation adds rosemary and black pepper for an Italian twist on the international favorite.",
+      "features": ["Extensive menu", "High-quality ingredients", "Spacious interior", "Family-friendly"]
+    },
+    {
+      "name": "Crazy Pizza Milano",
+      "address": "Via Varese, 1, 20121 Milano MI",
+      "website": "https://www.crazypizza.com",
+      "phone": "+39 02 3659 2390",
+      "specialty": "Crazy Hawaiian (ultra-thin crust, San Marzano sauce, mozzarella, premium ham, fresh pineapple)",
+      "price_range": "€€€",
+      "rating": 4.2,
+      "hours": {
+        "monday": "12:00-15:00, 19:00-00:00",
+        "tuesday": "12:00-15:00, 19:00-00:00",
+        "wednesday": "12:00-15:00, 19:00-00:00",
+        "thursday": "12:00-15:00, 19:00-00:00",
+        "friday": "12:00-15:00, 19:00-01:00",
+        "saturday": "12:00-15:00, 19:00-01:00",
+        "sunday": "12:00-15:00, 19:00-00:00"
+      },
+      "description": "Trendy, upscale pizzeria with ultra-thin, yeast-free crusts. Their extravagant take on Hawaiian pizza uses premium ingredients in a stylish setting.",
+      "features": ["Celebrity hotspot", "Ultra-thin crust", "Entertainment", "Fashionable setting"]
+    },
+    {
+      "name": "Cocciuto",
+      "address": "Via Bergognone, 24, 20144 Milano MI",
+      "website": "https://www.cocciuto.it",
+      "phone": "+39 02 3652 3214",
+      "specialty": "Waikiki (tomato sauce, mozzarella, caramelized pineapple, smoked ham, jalapeños)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:00-14:30, 19:00-23:30",
+        "tuesday": "12:00-14:30, 19:00-23:30",
+        "wednesday": "12:00-14:30, 19:00-23:30",
+        "thursday": "12:00-14:30, 19:00-23:30",
+        "friday": "12:00-14:30, 19:00-00:00",
+        "saturday": "12:00-14:30, 19:00-00:00",
+        "sunday": "12:00-14:30, 19:00-23:30"
+      },
+      "description": "Contemporary pizzeria in the Tortona design district that specializes in creative recipes. Their Hawaiian pizza gets a spicy kick from jalapeños.",
+      "features": ["Instagrammable decor", "Popular brunch", "Tortona district", "Cocktail menu"]
+    }
+  ],
+  "last_updated": "2024-10-01",
+  "disclaimer": "Information may have changed since the last update. Pineapple on pizza remains controversial in Italy, so availability may vary. Please check with the establishments directly for the most current menu offerings and details."
+}

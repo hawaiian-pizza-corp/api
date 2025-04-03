@@ -1,0 +1,206 @@
+{
+  "pizzerias": [
+    {
+      "name": "Trattoria Buongiorno",
+      "address": "Bulevardul Primăverii 19-21, București 011972",
+      "website": "https://www.trattoriabuongiorno.ro",
+      "phone": "+40 731 402 222",
+      "specialty": "Pizza Hawaii (sos de roșii, mozzarella, șuncă, ananas proaspăt, oregano)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "12:00-23:00",
+        "tuesday": "12:00-23:00",
+        "wednesday": "12:00-23:00",
+        "thursday": "12:00-23:00",
+        "friday": "12:00-00:00",
+        "saturday": "12:00-00:00",
+        "sunday": "12:00-23:00"
+      },
+      "description": "Popular Italian restaurant chain with multiple locations in Bucharest. Their Hawaiian pizza features fresh pineapple and quality ham on a thin, crispy crust.",
+      "features": ["Multiple locations", "Authentic Italian atmosphere", "Terrace seating", "Full bar"]
+    },
+    {
+      "name": "Tutti Pizza",
+      "address": "Strada Benjamin Franklin 1-3, București 010287",
+      "website": "https://www.tuttipizza.ro",
+      "phone": "+40 729 729 999",
+      "specialty": "Pizza Tropicana (sos de roșii, mozzarella, șuncă, ananas, oregano)",
+      "price_range": "€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "10:00-22:00",
+        "tuesday": "10:00-22:00",
+        "wednesday": "10:00-22:00",
+        "thursday": "10:00-22:00",
+        "friday": "10:00-23:00",
+        "saturday": "10:00-23:00",
+        "sunday": "11:00-22:00"
+      },
+      "description": "Local pizzeria known for affordable prices and quick delivery. Their Hawaiian-style Tropicana pizza is among their most popular offerings.",
+      "features": ["Fast delivery", "Budget-friendly", "Student discounts", "Online ordering"]
+    },
+    {
+      "name": "Mamizza",
+      "address": "Strada Batiștei 14, București 020932",
+      "website": "https://www.mamizza.ro",
+      "phone": "+40 758 111 112",
+      "specialty": "Hawaii Special (sos de roșii, mozzarella, șuncă porchetta, ananas caramelizat, jalapeño)",
+      "price_range": "€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-23:00",
+        "saturday": "12:00-23:00",
+        "sunday": "12:00-22:00"
+      },
+      "description": "Artisanal pizzeria using a traditional wood-fired oven. Their Hawaiian pizza gets an upgrade with porchetta ham, caramelized pineapple, and jalapeños for a spicy kick.",
+      "features": ["Wood-fired oven", "Sourdough crust", "Craft beer selection", "Hip atmosphere"]
+    },
+    {
+      "name": "La Placinte",
+      "address": "Bulevardul Nicolae Bălcescu 7, București 010051",
+      "website": "https://www.laplacinte.ro",
+      "phone": "+40 725 333 333",
+      "specialty": "Pizza Moldovenească de Ananas (sos de roșii, brânză de burduf, șuncă, ananas, porumb)",
+      "price_range": "€",
+      "rating": 4.2,
+      "hours": {
+        "monday": "08:00-23:00",
+        "tuesday": "08:00-23:00",
+        "wednesday": "08:00-23:00",
+        "thursday": "08:00-23:00",
+        "friday": "08:00-00:00",
+        "saturday": "08:00-00:00",
+        "sunday": "08:00-23:00"
+      },
+      "description": "Restaurant chain specializing in Moldovan cuisine that also offers pizzas. Their unique Hawaiian pizza uses traditional Romanian sheep cheese (burduf) and adds corn as an extra topping.",
+      "features": ["Romanian-Moldovan cuisine", "Central location", "Family-friendly", "Traditional decor"]
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "Bulevardul General Gheorghe Magheru 28-30, București 010336",
+      "website": "https://www.pizzahut.ro",
+      "phone": "+40 264 207 207",
+      "specialty": "Hawaiian Pizza (sos de roșii, mozzarella, șuncă, ananas)",
+      "price_range": "€€",
+      "rating": 4.0,
+      "hours": {
+        "monday": "10:00-22:00",
+        "tuesday": "10:00-22:00",
+        "wednesday": "10:00-22:00",
+        "thursday": "10:00-22:00",
+        "friday": "10:00-23:00",
+        "saturday": "10:00-23:00",
+        "sunday": "10:00-22:00"
+      },
+      "description": "Global pizza chain with multiple locations throughout Bucharest. Their classic Hawaiian pizza is available in pan, thin, or stuffed crust variations.",
+      "features": ["Multiple locations", "Consistent quality", "Various crust options", "Family deals"]
+    },
+    {
+      "name": "Vivo Fusion Food Bar",
+      "address": "Calea Floreasca 60, București 014462",
+      "website": "https://www.vivofoodbar.com",
+      "phone": "+40 733 506 579",
+      "specialty": "Pizza Tropicală Fusion (sos de roșii, mozzarella, șuncă de curcan, ananas, mango, ardei iute)",
+      "price_range": "€€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:00-23:00",
+        "tuesday": "12:00-23:00",
+        "wednesday": "12:00-23:00",
+        "thursday": "12:00-23:00",
+        "friday": "12:00-00:00",
+        "saturday": "12:00-00:00",
+        "sunday": "12:00-23:00"
+      },
+      "description": "Fusion restaurant offering creative takes on international favorites. Their tropical pizza features turkey ham, pineapple, mango, and chili for a fusion take on the Hawaiian classic.",
+      "features": ["Fusion cuisine", "Upscale atmosphere", "Craft cocktails", "Health-conscious options"]
+    },
+    {
+      "name": "Pizzeria Colosseum",
+      "address": "Strada Mihai Eminescu 89, București 020084",
+      "website": "https://www.pizzeriacolosseum.ro",
+      "phone": "+40 732 121 771",
+      "specialty": "Pizza Hawai (sos de roșii, mozzarella, șuncă prosciutto cotto, ananas, oregano)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "11:00-22:30",
+        "tuesday": "11:00-22:30",
+        "wednesday": "11:00-22:30",
+        "thursday": "11:00-22:30",
+        "friday": "11:00-23:30",
+        "saturday": "11:00-23:30",
+        "sunday": "12:00-22:30"
+      },
+      "description": "Traditional Roman-style pizzeria using imported Italian ingredients. Their Hawaiian pizza features premium Italian cooked ham (prosciutto cotto) for an elevated flavor profile.",
+      "features": ["Roman-style thin crust", "Italian imports", "Wine selection", "Authentic recipes"]
+    },
+    {
+      "name": "Dristor Kebap & Pizza",
+      "address": "Bulevardul Camil Ressu 1, București 031731",
+      "website": "https://www.dristorkebap.ro",
+      "phone": "+40 757 575 575",
+      "specialty": "Pizza Hawaii Orientală (sos de roșii, mozzarella, șuncă, ananas, susan, oregano)",
+      "price_range": "€",
+      "rating": 4.1,
+      "hours": {
+        "monday": "10:00-00:00",
+        "tuesday": "10:00-00:00",
+        "wednesday": "10:00-00:00",
+        "thursday": "10:00-00:00",
+        "friday": "10:00-02:00",
+        "saturday": "10:00-02:00",
+        "sunday": "10:00-00:00"
+      },
+      "description": "Popular fast-food chain known primarily for kebabs but also offering good value pizzas. Their Hawaiian pizza includes a unique addition of sesame seeds for an Oriental twist.",
+      "features": ["Fast service", "Late night dining", "Budget-friendly", "Extensive menu beyond pizza"]
+    },
+    {
+      "name": "Animaletto Pizza Bar",
+      "address": "Strada Mendeleev 5, București 010361",
+      "website": "https://www.animaletto.ro",
+      "phone": "+40 733 273 273",
+      "specialty": "Maui Wowie (sos de roșii, mozzarella di bufala, prosciutto cotto, ananas grătar, ardei iute, busuioc)",
+      "price_range": "€€€",
+      "rating": 4.7,
+      "hours": {
+        "monday": "12:00-00:00",
+        "tuesday": "12:00-00:00",
+        "wednesday": "12:00-00:00",
+        "thursday": "12:00-00:00",
+        "friday": "12:00-02:00",
+        "saturday": "12:00-02:00",
+        "sunday": "12:00-00:00"
+      },
+      "description": "Hip, modern pizzeria and cocktail bar in Bucharest's Old Town. Their premium Hawaiian pizza features buffalo mozzarella and grilled pineapple for enhanced flavor complexity.",
+      "features": ["Specialty cocktails", "Instagrammable interior", "DJ nights", "Premium ingredients"]
+    },
+    {
+      "name": "Jerry's Pizza",
+      "address": "Bulevardul Decebal 12, București 030967",
+      "website": "https://www.jerryspizza.ro",
+      "phone": "+40 213 167 032",
+      "specialty": "Hawaii Pizza (sos de roșii, mozzarella, șuncă, ananas)",
+      "price_range": "€",
+      "rating": 4.0,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-23:00",
+        "saturday": "11:00-23:00",
+        "sunday": "11:00-22:00"
+      },
+      "description": "Romanian pizza delivery chain with multiple locations throughout Bucharest. Their classic Hawaiian pizza is available in various sizes and crust options.",
+      "features": ["Fast delivery", "Online ordering", "Multiple locations", "Value deals"]
+    }
+  ],
+  "last_updated": "2024-10-01",
+  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+}

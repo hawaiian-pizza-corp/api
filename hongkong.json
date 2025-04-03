@@ -1,0 +1,206 @@
+{
+  "pizzerias": [
+    {
+      "name": "Motorino",
+      "address": "Shop A, G/F, 14 Shelley Street, SoHo, Central, Hong Kong",
+      "website": "https://www.motorinohongkong.com",
+      "phone": "+852 2801 6881",
+      "specialty": "Hawaiian Pie (San Marzano tomatoes, fior di latte, prosciutto cotto, fresh pineapple, basil)",
+      "price_range": "€€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "12:00-22:30",
+        "tuesday": "12:00-22:30",
+        "wednesday": "12:00-22:30",
+        "thursday": "12:00-22:30",
+        "friday": "12:00-23:00",
+        "saturday": "12:00-23:00",
+        "sunday": "12:00-22:30"
+      },
+      "description": "New York-based pizzeria known for authentic Neapolitan-style pizzas cooked in a custom-built wood-burning oven. Their Hawaiian pizza uses premium Italian ham and fresh pineapple.",
+      "features": ["Wood-fired oven", "Multiple locations", "Authentic Neapolitan", "Imported ingredients"]
+    },
+    {
+      "name": "Fini's",
+      "address": "G/F, 49 Elgin Street, SoHo, Central, Hong Kong",
+      "website": "https://www.finis.com.hk",
+      "phone": "+852 2387 6338",
+      "specialty": "The Big Island (tomato sauce, mozzarella, smoked ham, caramelized pineapple, jalapeños)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "12:00-23:00",
+        "tuesday": "12:00-23:00",
+        "wednesday": "12:00-23:00",
+        "thursday": "12:00-23:00",
+        "friday": "12:00-00:00",
+        "saturday": "11:00-00:00",
+        "sunday": "11:00-23:00"
+      },
+      "description": "American-Italian restaurant serving New York-style hand-tossed pizzas. Their Hawaiian variation includes caramelized pineapple and jalapeños for sweet heat.",
+      "features": ["New York style", "Family-friendly", "Full bar", "Brunch menu"]
+    },
+    {
+      "name": "Alvy's",
+      "address": "8 Holland Street, Kennedy Town, Hong Kong",
+      "website": "https://www.alvys.hk",
+      "phone": "+852 2312 2996",
+      "specialty": "Aloha (tomato sauce, mozzarella, char siu pork, pineapple, spring onion)",
+      "price_range": "€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "17:00-00:00",
+        "tuesday": "17:00-00:00",
+        "wednesday": "17:00-00:00",
+        "thursday": "17:00-00:00",
+        "friday": "15:00-01:00",
+        "saturday": "12:00-01:00",
+        "sunday": "12:00-00:00"
+      },
+      "description": "Neighborhood pizzeria and craft beer bar that combines New York pizza techniques with local Hong Kong flavors. Their Hawaiian pizza replaces ham with Cantonese-style char siu pork.",
+      "features": ["Sourdough base", "Local fusion", "Craft beer selection", "Hipster vibe"]
+    },
+    {
+      "name": "CIAK - In The Kitchen",
+      "address": "Shop 327-333, 3/F, Landmark Atrium, 15 Queen's Road Central, Central, Hong Kong",
+      "website": "https://www.ciakconcept.com",
+      "phone": "+852 2522 8869",
+      "specialty": "Pizza Tropicale (San Marzano tomatoes, buffalo mozzarella, Italian cooked ham, fresh pineapple)",
+      "price_range": "€€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "11:30-22:30",
+        "tuesday": "11:30-22:30",
+        "wednesday": "11:30-22:30",
+        "thursday": "11:30-22:30",
+        "friday": "11:30-22:30",
+        "saturday": "11:30-22:30",
+        "sunday": "11:30-22:30"
+      },
+      "description": "Michelin-starred Italian restaurant led by Chef Umberto Bombana. Their Hawaiian pizza uses premium ingredients including buffalo mozzarella and imported Italian ham.",
+      "features": ["Michelin recognition", "Upscale dining", "Shopping mall location", "Italian imports"]
+    },
+    {
+      "name": "Paisano's Pizzeria",
+      "address": "G/F, 23 Hollywood Road, Central, Hong Kong",
+      "website": "https://www.casteloconcepts.com/our-venues/paisanos",
+      "phone": "+852 2544 4445",
+      "specialty": "Hawaiian (tomato sauce, mozzarella, ham, pineapple, extra cheese)",
+      "price_range": "€€",
+      "rating": 4.2,
+      "hours": {
+        "monday": "11:30-23:00",
+        "tuesday": "11:30-23:00",
+        "wednesday": "11:30-23:00",
+        "thursday": "11:30-23:00",
+        "friday": "11:30-00:00",
+        "saturday": "11:30-00:00",
+        "sunday": "11:30-23:00"
+      },
+      "description": "New York-style pizzeria offering large, thin-crust pies by the slice or whole. Their classic Hawaiian pizza comes with extra cheese for indulgence.",
+      "features": ["Pizza by the slice", "Late-night dining", "Delivery available", "Budget-friendly"]
+    },
+    {
+      "name": "Mother of Pizzas",
+      "address": "G/F, 13-19 Leighton Road, Causeway Bay, Hong Kong",
+      "website": "https://www.motherofpizzas.hk",
+      "phone": "+852 2891 2221",
+      "specialty": "Pineapple Express (San Marzano tomatoes, mozzarella, crispy bacon, pineapple, pickled jalapeños)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:00-22:00",
+        "tuesday": "12:00-22:00",
+        "wednesday": "12:00-22:00",
+        "thursday": "12:00-22:00",
+        "friday": "12:00-22:00",
+        "saturday": "12:00-22:00",
+        "sunday": "12:00-22:00"
+      },
+      "description": "Artisanal pizza shop specializing in New York and Neapolitan hybrid style with a 48-hour fermented dough. Their Hawaiian variation uses bacon instead of ham and adds pickled jalapeños.",
+      "features": ["48-hour fermented dough", "Hybrid NY-Neapolitan style", "Premium ingredients", "Family recipes"]
+    },
+    {
+      "name": "Emmer Pizzeria & Cafe",
+      "address": "Shop 407, 4/F, Pacific Place, 88 Queensway, Admiralty, Hong Kong",
+      "website": "https://www.emmerpizza.com",
+      "phone": "+852 2780 1110",
+      "specialty": "Aloha Emmer (tomato sauce, mozzarella, house-cured ham, roasted pineapple, red onion)",
+      "price_range": "€€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-22:00",
+        "saturday": "11:00-22:00",
+        "sunday": "11:00-22:00"
+      },
+      "description": "Upscale pizzeria using organic emmer wheat flour for their sourdough pizza bases. Their Hawaiian pizza features house-cured ham and roasted pineapple for enhanced flavor.",
+      "features": ["Organic ingredients", "Ancient grain dough", "Shopping mall location", "Cafe atmosphere"]
+    },
+    {
+      "name": "Rosie's Handmade",
+      "address": "Shop A, G/F, 108 Des Voeux Road West, Sai Ying Pun, Hong Kong",
+      "website": "https://www.rosiespizza.hk",
+      "phone": "+852 9862 8363",
+      "specialty": "Chinatown Pizza (tomato sauce, mozzarella, lap cheong sausage, pineapple, spring onion)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "17:00-22:30",
+        "tuesday": "17:00-22:30",
+        "wednesday": "17:00-22:30",
+        "thursday": "17:00-22:30",
+        "friday": "12:00-14:30, 17:00-22:30",
+        "saturday": "12:00-22:30",
+        "sunday": "12:00-22:30"
+      },
+      "description": "Neighborhood pizzeria serving handmade pizzas with local twists. Their Hawaiian-inspired pizza replaces ham with Chinese lap cheong sausage for a unique fusion flavor.",
+      "features": ["Hong Kong fusion", "Handmade dough", "Local ingredients", "Neighborhood favorite"]
+    },
+    {
+      "name": "208 Duecento Otto",
+      "address": "208 Hollywood Road, Sheung Wan, Hong Kong",
+      "website": "https://www.208.com.hk",
+      "phone": "+852 2549 0208",
+      "specialty": "Tropicale (tomato sauce, mozzarella fior di latte, cooked ham, fresh pineapple, oregano)",
+      "price_range": "€€€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "12:00-15:00, 18:00-23:00",
+        "tuesday": "12:00-15:00, 18:00-23:00",
+        "wednesday": "12:00-15:00, 18:00-23:00",
+        "thursday": "12:00-15:00, 18:00-23:00",
+        "friday": "12:00-15:00, 18:00-00:00",
+        "saturday": "11:00-16:00, 18:00-00:00",
+        "sunday": "11:00-16:00, 18:00-23:00"
+      },
+      "description": "Stylish Italian restaurant and bar featuring Napoletana pizzas from a stone wood-fired oven. Their classic Hawaiian pizza uses premium ingredients in the traditional Italian style.",
+      "features": ["Rustic-chic decor", "Wood-fired oven", "Extensive wine list", "Upscale casual"]
+    },
+    {
+      "name": "PizzaExpress",
+      "address": "Shop 1001B, 10/F, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong",
+      "website": "https://www.pizzaexpress.com.hk",
+      "phone": "+852 2577 2083",
+      "specialty": "Hawaiian (passata, mozzarella, ham, pineapple, red onion, mixed herbs)",
+      "price_range": "€€",
+      "rating": 4.0,
+      "hours": {
+        "monday": "11:30-22:00",
+        "tuesday": "11:30-22:00",
+        "wednesday": "11:30-22:00",
+        "thursday": "11:30-22:00",
+        "friday": "11:30-22:00",
+        "saturday": "11:30-22:00",
+        "sunday": "11:30-22:00"
+      },
+      "description": "International chain offering reliable, consistent pizzas in a casual setting. Their Hawaiian pizza includes red onion and mixed herbs for additional flavor dimensions.",
+      "features": ["Multiple locations", "Family-friendly", "Shopping mall locations", "International chain"]
+    }
+  ],
+  "last_updated": "2024-10-01",
+  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+}

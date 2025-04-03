@@ -1,0 +1,206 @@
+{
+  "pizzerias": [
+    {
+      "name": "Pizzeria Ai Marmi",
+      "address": "Via dei Marmi, 53, 00153 Roma RM",
+      "website": "https://www.pizzeriaimarmi.com",
+      "phone": "+39 06 580 0919",
+      "specialty": "Pizza Tropicale (pineapple, ham, mozzarella)",
+      "price_range": "€€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "19:00-01:00",
+        "wednesday": "19:00-01:00",
+        "thursday": "19:00-01:00",
+        "friday": "19:00-01:30",
+        "saturday": "19:00-01:30",
+        "sunday": "19:00-01:00"
+      },
+      "description": "Known as 'L'Obitorio' (The Morgue) by locals due to its marble tables, this classic Roman pizzeria serves thin, crispy pizzas including a special Hawaiian version for international visitors.",
+      "features": ["Traditional Roman-style thin crust", "Outdoor seating", "Local favorite", "No reservations"]
+    },
+    {
+      "name": "Emma Pizzeria",
+      "address": "Via del Monte della Farina, 28, 00186 Roma RM",
+      "website": "https://www.emmapizzeria.com",
+      "phone": "+39 06 6476 0475",
+      "specialty": "Ananas e Prosciutto (pineapple, cooked ham, fior di latte)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "12:30-15:00, 19:00-23:30",
+        "tuesday": "12:30-15:00, 19:00-23:30",
+        "wednesday": "12:30-15:00, 19:00-23:30",
+        "thursday": "12:30-15:00, 19:00-23:30",
+        "friday": "12:30-15:00, 19:00-23:30",
+        "saturday": "12:30-15:00, 19:00-23:30",
+        "sunday": "12:30-15:00, 19:00-23:30"
+      },
+      "description": "Upscale pizzeria using organic flours and premium ingredients. They offer a Hawaiian-style pizza that pairs perfectly with their extensive wine list.",
+      "features": ["Reservations recommended", "Gourmet ingredients", "Wine pairing", "Elegant atmosphere"]
+    },
+    {
+      "name": "Seu Pizza Illuminati",
+      "address": "Via Angelo Bargoni, 10-18, 00153 Roma RM",
+      "website": "https://www.seupizzailluminati.it",
+      "phone": "+39 06 5883384",
+      "specialty": "Tropicana Remix (pineapple, rum-infused ham, smoked provola)",
+      "price_range": "€€€",
+      "rating": 4.7,
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "19:00-23:30",
+        "wednesday": "19:00-23:30",
+        "thursday": "19:00-23:30",
+        "friday": "19:00-00:00",
+        "saturday": "12:30-15:00, 19:00-00:00",
+        "sunday": "12:30-15:00, 19:00-23:30"
+      },
+      "description": "Award-winning innovative pizzeria known for experimental combinations. Their Hawaiian-inspired pizza features rum-infused ham and caramelized pineapple.",
+      "features": ["Innovative techniques", "Among Italy's top 50 pizzerias", "Contemporary atmosphere", "Reservations essential"]
+    },
+    {
+      "name": "Pizzarium Bonci",
+      "address": "Via della Meloria, 43, 00136 Roma RM",
+      "website": "https://www.bonci.it",
+      "phone": "+39 06 3974 5416",
+      "specialty": "Pizza al Taglio Hawaii (pineapple, prosciutto cotto, mozzarella)",
+      "price_range": "€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "11:00-22:00",
+        "tuesday": "11:00-22:00",
+        "wednesday": "11:00-22:00",
+        "thursday": "11:00-22:00",
+        "friday": "11:00-22:00",
+        "saturday": "11:00-22:00",
+        "sunday": "12:00-16:00"
+      },
+      "description": "Gabriele Bonci's famous pizza-by-the-slice shop offers creative toppings and experimental combinations, including a seasonal Hawaiian-style option.",
+      "features": ["Pizza al taglio (by the slice)", "Artisanal dough", "Changing daily menu", "Take-away focused"]
+    },
+    {
+      "name": "La Pratolina",
+      "address": "Via degli Scipioni, 248, 00192 Roma RM",
+      "website": "https://www.pizzeriapratolina.it",
+      "phone": "+39 06 3600 4409",
+      "specialty": "Pinsa Esotica (pineapple, cooked ham, mozzarella on oval pinsa base)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "19:30-00:00",
+        "wednesday": "19:30-00:00",
+        "thursday": "19:30-00:00",
+        "friday": "19:30-00:00",
+        "saturday": "19:30-00:00",
+        "sunday": "19:30-00:00"
+      },
+      "description": "Specializing in pinsa romana, the oval-shaped ancestor of pizza, La Pratolina offers a lighter, more digestible base that pairs wonderfully with their pineapple topping.",
+      "features": ["Authentic pinsa romana", "Rustic tavern atmosphere", "Vegetarian options", "Local wine selection"]
+    },
+    {
+      "name": "180g Pizzeria Romana",
+      "address": "Via Tor de' Schiavi, 53, 00172 Roma RM",
+      "website": "https://www.180gpizzeriaromana.it",
+      "phone": "+39 06 2410 0667",
+      "specialty": "Aloha (fresh pineapple, porchetta, fior di latte)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "19:00-23:30",
+        "wednesday": "19:00-23:30",
+        "thursday": "19:00-23:30",
+        "friday": "19:00-00:00",
+        "saturday": "19:00-00:00",
+        "sunday": "19:00-23:30"
+      },
+      "description": "Named for the precise weight of their dough balls, this modern pizzeria offers an Italian twist on Hawaiian pizza by replacing ham with porchetta.",
+      "features": ["Ultra-thin Roman crust", "72-hour fermentation", "Craft beer selection", "Modern decor"]
+    },
+    {
+      "name": "Piccolo Buco",
+      "address": "Via del Lavatore, 91, 00187 Roma RM",
+      "website": "https://www.pizzeriapiccolobuco.it",
+      "phone": "+39 06 6938 0163",
+      "specialty": "Pizza Ananas (fresh pineapple, prosciutto cotto, fior di latte)",
+      "price_range": "€€",
+      "rating": 4.6,
+      "hours": {
+        "monday": "12:00-16:00, 18:00-00:00",
+        "tuesday": "12:00-16:00, 18:00-00:00",
+        "wednesday": "12:00-16:00, 18:00-00:00",
+        "thursday": "12:00-16:00, 18:00-00:00",
+        "friday": "12:00-16:00, 18:00-00:00",
+        "saturday": "12:00-16:00, 18:00-00:00",
+        "sunday": "12:00-16:00, 18:00-00:00"
+      },
+      "description": "Despite its tiny size (the name means 'small hole'), this pizzeria near the Trevi Fountain offers Neapolitan-Roman hybrid pizzas with a fluffy cornicione and crispy base.",
+      "features": ["Near Trevi Fountain", "Queues common", "Neapolitan-style", "Popular with tourists"]
+    },
+    {
+      "name": "La Gatta Mangiona",
+      "address": "Via Federico Ozanam, 30-32, 00152 Roma RM",
+      "website": "https://www.lagattamangiona.com",
+      "phone": "+39 06 534 6702",
+      "specialty": "Paradiso Tropicale (fresh pineapple, smoked ham, provola, basil)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "19:30-00:00",
+        "wednesday": "19:30-00:00",
+        "thursday": "19:30-00:00",
+        "friday": "19:30-00:00",
+        "saturday": "19:30-00:00",
+        "sunday": "19:30-00:00"
+      },
+      "description": "This 'Eating Cat' pizzeria in Monteverde is known for experimental toppings and offers a gourmet take on pineapple pizza with smoked ham.",
+      "features": ["Gourmet approach", "Extensive beer list", "Changing seasonal menu", "Cozy atmosphere"]
+    },
+    {
+      "name": "Alice Pizza",
+      "address": "Via delle Grazie, 7A, 00186 Roma RM",
+      "website": "https://www.alicepizza.it",
+      "phone": "+39 06 9357 4406",
+      "specialty": "Taglio Hawaiano (pineapple, ham, mozzarella on rectangular slice)",
+      "price_range": "€",
+      "rating": 4.3,
+      "hours": {
+        "monday": "10:00-22:00",
+        "tuesday": "10:00-22:00",
+        "wednesday": "10:00-22:00",
+        "thursday": "10:00-22:00",
+        "friday": "10:00-22:00",
+        "saturday": "10:00-22:00",
+        "sunday": "10:00-22:00"
+      },
+      "description": "Popular pizza al taglio chain with multiple locations around Rome. Offers affordable, high-quality pizza by the slice, including a Hawaiian option.",
+      "features": ["Pizza by weight", "Multiple locations", "Budget-friendly", "Quick service"]
+    },
+    {
+      "name": "Ivo a Trastevere",
+      "address": "Via di San Francesco a Ripa, 158, 00153 Roma RM",
+      "website": "https://www.ivoatrastevere.it",
+      "phone": "+39 06 581 7082",
+      "specialty": "Pizza Hawaii (pineapple, cooked ham, mozzarella on thin Roman crust)",
+      "price_range": "€€",
+      "rating": 4.2,
+      "hours": {
+        "monday": "18:00-01:00",
+        "tuesday": "18:00-01:00",
+        "wednesday": "18:00-01:00",
+        "thursday": "18:00-01:00",
+        "friday": "18:00-01:00",
+        "saturday": "18:00-01:00",
+        "sunday": "18:00-01:00"
+      },
+      "description": "Historic Trastevere pizzeria open since 1959 with traditional Roman pizzas. While they pride themselves on classic recipes, they prepare Hawaiian pizza upon request.",
+      "features": ["Historic establishment", "Outdoor seating", "Late-night dining", "Traditional Roman style"]
+    }
+  ],
+  "last_updated": "2024-10-01",
+  "disclaimer": "Information may have changed since the last update. Pineapple on pizza remains controversial in Italy, so availability may vary. Please check with the establishments directly for the most current menu offerings and details."
+}
