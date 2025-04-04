@@ -8,15 +8,6 @@
       "specialty": "Pizza Hawaï (sauce tomate, mozzarella, jambon, ananas frais)",
       "price_range": "€€",
       "rating": 4.4,
-      "hours": {
-        "monday": "11:30-14:00, 18:30-22:00",
-        "tuesday": "11:30-14:00, 18:30-22:00",
-        "wednesday": "11:30-14:00, 18:30-22:00",
-        "thursday": "11:30-14:00, 18:30-22:00",
-        "friday": "11:30-14:00, 18:30-22:30",
-        "saturday": "11:30-14:00, 18:30-22:30",
-        "sunday": "18:30-22:00"
-      },
       "description": "Local chain emphasizing organic and locally-sourced ingredients. Their Hawaiian pizza uses fresh, not canned, pineapple and high-quality ham from local producers.",
       "features": ["Organic ingredients", "Multiple locations", "Eco-friendly packaging", "Delivery available"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Hawaïenne (sauce tomate, mozzarella fior di latte, jambon supérieur, ananas)",
       "price_range": "€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "11:30-14:30, 18:30-22:30",
-        "tuesday": "11:30-14:30, 18:30-22:30",
-        "wednesday": "11:30-14:30, 18:30-22:30",
-        "thursday": "11:30-14:30, 18:30-22:30",
-        "friday": "11:30-14:30, 18:30-23:00",
-        "saturday": "18:30-23:00",
-        "sunday": "18:30-22:30"
-      },
       "description": "Authentic Italian pizzeria in the heart of Lyon, using a wood-fired oven. Their Hawaiian pizza combines traditional Italian technique with the popular pineapple-ham combination.",
       "features": ["Wood-fired oven", "Central location", "Homemade desserts", "Italian wine selection"]
     },
@@ -48,15 +30,6 @@
       "specialty": "Pizza Tropicale (sauce tomate, mozzarella, jambon blanc, ananas, olives)",
       "price_range": "€€",
       "rating": 4.3,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "12:00-14:00, 19:00-22:00"
-      },
       "description": "Family-run Italian restaurant serving traditional thin-crust pizzas since 1992. Their tropical pizza adds olives to the classic Hawaiian combination for an extra Mediterranean touch.",
       "features": ["Family-owned", "Cozy atmosphere", "Traditional recipes", "Terrace seating"]
     }

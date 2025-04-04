@@ -8,15 +8,6 @@
       "specialty": "La Bjork (pineapple, ham, mozzarella)",
       "price_range": "€€",
       "rating": 4.3,
-      "hours": {
-        "monday": "12:00-15:00, 18:00-23:00",
-        "tuesday": "12:00-15:00, 18:00-23:00",
-        "wednesday": "12:00-15:00, 18:00-23:00",
-        "thursday": "12:00-15:00, 18:00-23:00",
-        "friday": "12:00-15:00, 18:00-23:00",
-        "saturday": "12:00-15:30, 18:00-23:30",
-        "sunday": "12:00-15:30, 18:00-23:00"
-      },
       "description": "Known for creative and unusual pizzas, Pink Flamingo offers a hip atmosphere and their famous Hawaiian-style pizza with fresh pineapple.",
       "features": ["Delivery", "Takeaway", "Outdoor seating", "Vegetarian options"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Pizza Hawai (pineapple, prosciutto, mozzarella di bufala)",
       "price_range": "€€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:30, 19:00-22:30",
-        "wednesday": "12:00-14:30, 19:00-22:30",
-        "thursday": "12:00-14:30, 19:00-22:30",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "12:00-15:00, 19:00-22:30"
-      },
       "description": "Upscale pizzeria serving gourmet Italian pizzas with high-quality ingredients, including a refined take on Hawaiian pizza.",
       "features": ["Reservations recommended", "Wine selection", "Gluten-free options"]
     },
@@ -48,159 +30,8 @@
       "specialty": "Tropicale (pineapple, cooked ham, mozzarella)",
       "price_range": "€€",
       "rating": 4.4,
-      "hours": {
-        "monday": "12:00-14:45, 19:00-22:45",
-        "tuesday": "12:00-14:45, 19:00-22:45",
-        "wednesday": "12:00-14:45, 19:00-22:45",
-        "thursday": "12:00-14:45, 19:00-22:45",
-        "friday": "12:00-14:45, 19:00-22:45",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "12:00-15:00, 19:00-22:45"
-      },
       "description": "Part of the Big Mamma Group, Popolare offers affordable Neapolitan-style pizzas including a popular pineapple version in a lively atmosphere.",
       "features": ["No reservations", "Queues common", "Cocktail bar", "Authentic Italian ingredients"]
-    },
-    {
-      "name": "Da Vito",
-      "address": "27 Rue Cler, 75007 Paris",
-      "website": "http://www.davito-paris.com",
-      "phone": "+33 1 45 51 45 55",
-      "specialty": "Hawaii (pineapple, ham, mozzarella, oregano)",
-      "price_range": "€€",
-      "rating": 4.2,
-      "hours": {
-        "monday": "12:00-14:30, 19:00-23:00",
-        "tuesday": "12:00-14:30, 19:00-23:00",
-        "wednesday": "12:00-14:30, 19:00-23:00",
-        "thursday": "12:00-14:30, 19:00-23:00",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "12:00-15:00, 19:00-23:00"
-      },
-      "description": "Traditional Italian restaurant in the 7th arrondissement with a cozy atmosphere, serving classic pizza varieties including Hawaiian.",
-      "features": ["Family-friendly", "Terrace seating", "Near Eiffel Tower"]
-    },
-    {
-      "name": "Tripletta Belleville",
-      "address": "15 Rue Denoyez, 75020 Paris",
-      "website": "https://tripletta.fr",
-      "phone": "+33 1 47 00 32 03",
-      "specialty": "La Hawaii Five-O (pineapple, speck, red onions, mozzarella)",
-      "price_range": "€€",
-      "rating": 4.3,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:30, 19:00-22:30",
-        "wednesday": "12:00-14:30, 19:00-22:30",
-        "thursday": "12:00-14:30, 19:00-22:30",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "12:00-15:00, 19:00-22:30"
-      },
-      "description": "Hip pizzeria in the artistic Belleville neighborhood with creative toppings and a modern take on the classic Hawaiian pizza.",
-      "features": ["Craft beer selection", "Art gallery atmosphere", "Organic ingredients"]
-    },
-    {
-      "name": "Libertino",
-      "address": "44 Rue de Paradis, 75010 Paris",
-      "website": "https://www.bigmammagroup.com/fr/trattorias/libertino",
-      "phone": "+33 1 45 26 79 79",
-      "specialty": "Pizza Paradiso (pineapple, San Daniele ham, red pepper)",
-      "price_range": "€€",
-      "rating": 4.4,
-      "hours": {
-        "monday": "12:00-14:30, 19:00-22:30",
-        "tuesday": "12:00-14:30, 19:00-22:30",
-        "wednesday": "12:00-14:30, 19:00-22:30",
-        "thursday": "12:00-14:30, 19:00-22:30",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "12:00-15:00, 19:00-22:30"
-      },
-      "description": "Another Big Mamma Group venue with a theatrical environment and wood-fired pizzas including their signature pineapple creation.",
-      "features": ["Instagram-worthy decor", "Italian products", "Cocktail menu"]
-    },
-    {
-      "name": "Dalmata",
-      "address": "8 Rue de Rochechouart, 75009 Paris",
-      "website": "https://dalmata-paris.com",
-      "phone": "+33 1 48 78 15 06",
-      "specialty": "Ananas (pineapple, smoked ham, fior di latte, basil)",
-      "price_range": "€€",
-      "rating": 4.1,
-      "hours": {
-        "monday": "12:00-14:30, 19:00-22:30",
-        "tuesday": "12:00-14:30, 19:00-22:30",
-        "wednesday": "12:00-14:30, 19:00-22:30",
-        "thursday": "12:00-14:30, 19:00-22:30",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "Closed"
-      },
-      "description": "Modern pizzeria with a focus on high-quality ingredients and creative combinations, including their unique take on pineapple pizza.",
-      "features": ["Natural wines", "Small plates", "Seasonal menu"]
-    },
-    {
-      "name": "East Mamma",
-      "address": "133 Rue du Faubourg Saint-Antoine, 75011 Paris",
-      "website": "https://www.bigmammagroup.com/fr/trattorias/east-mamma",
-      "phone": "+33 1 43 41 32 15",
-      "specialty": "Aloha (pineapple, ventricina spicy salami, fior di latte)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "12:00-14:45, 19:00-22:45",
-        "tuesday": "12:00-14:45, 19:00-22:45",
-        "wednesday": "12:00-14:45, 19:00-22:45",
-        "thursday": "12:00-14:45, 19:00-22:45",
-        "friday": "12:00-14:45, 19:00-23:15",
-        "saturday": "12:00-15:15, 19:00-23:15",
-        "sunday": "12:00-15:15, 19:00-22:45"
-      },
-      "description": "The first restaurant of the Big Mamma Group, famous for authentic Italian cuisine with a twist, including a spicy Hawaiian-style pizza.",
-      "features": ["No reservations", "Fresh pasta", "Italian staff", "Imported ingredients"]
-    },
-    {
-      "name": "Bijou",
-      "address": "10 Rue Dancourt, 75018 Paris",
-      "website": "https://www.bijou-paris.com",
-      "phone": "+33 1 46 06 97 77",
-      "specialty": "Tropical (pineapple, jambon blanc, San Marzano tomatoes)",
-      "price_range": "€€",
-      "rating": 4.2,
-      "hours": {
-        "monday": "19:00-22:30",
-        "tuesday": "19:00-22:30",
-        "wednesday": "12:00-14:30, 19:00-22:30",
-        "thursday": "12:00-14:30, 19:00-22:30",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "12:00-15:00, 19:00-22:30"
-      },
-      "description": "Neighborhood gem in Montmartre with artisanal pizzas and a relaxed atmosphere. Their pineapple pizza is made with fresh fruit and premium ham.",
-      "features": ["Hidden gem", "Local favorite", "Weekend brunch"]
-    },
-    {
-      "name": "La Cerise sur la Pizza",
-      "address": "1 Rue René Boulanger, 75010 Paris",
-      "website": "https://lacerisesurlapizza.fr",
-      "phone": "+33 1 42 01 55 99",
-      "specialty": "Hawaïenne (fresh pineapple, organic ham, mozzarella)",
-      "price_range": "€€",
-      "rating": 4.0,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:30, 19:00-22:30",
-        "wednesday": "12:00-14:30, 19:00-22:30",
-        "thursday": "12:00-14:30, 19:00-22:30",
-        "friday": "12:00-14:30, 19:00-23:00",
-        "saturday": "12:00-15:00, 19:00-23:00",
-        "sunday": "19:00-22:30"
-      },
-      "description": "Eco-conscious pizzeria using organic and locally-sourced ingredients whenever possible, with a focus on sustainability alongside flavor.",
-      "features": ["Organic ingredients", "Vegetarian-friendly", "Eco-friendly packaging", "Delivery by bicycle"]
     }
-  ],
-  "last_updated": "2024-10-01",
-  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current details."
+  ]
 }

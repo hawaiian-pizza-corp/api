@@ -8,15 +8,6 @@
       "specialty": "Hawaïenne Classico (sauce tomate, mozzarella, jambon, ananas frais, origan)",
       "price_range": "€€",
       "rating": 4.3,
-      "hours": {
-        "monday": "12:00-14:00, 19:00-22:00",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
       "description": "Family-run Italian restaurant serving authentic wood-fired pizzas. Their classic Hawaiian uses fresh pineapple and quality cooked ham for a traditional take on this international favorite.",
       "features": ["Wood-fired oven", "Family-owned", "Italian imports", "Terrace seating"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Tropicale (sauce tomate, mozzarella fior di latte, jambon blanc, ananas, olives noires)",
       "price_range": "€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
       "description": "Authentic Neapolitan pizzeria in the historic center of Clermont-Ferrand. Their tropical pizza adds black olives to the Hawaiian combination for a Mediterranean twist.",
       "features": ["Authentic Neapolitan", "Historic center location", "Imported Italian ingredients", "Traditional recipes"]
     },
@@ -48,159 +30,8 @@
       "specialty": "Hawaï (sauce tomate, mozzarella, jambon, ananas frais, crème fraîche)",
       "price_range": "€€",
       "rating": 4.2,
-      "hours": {
-        "monday": "11:30-14:00, 18:30-22:00",
-        "tuesday": "11:30-14:00, 18:30-22:00",
-        "wednesday": "11:30-14:00, 18:30-22:00",
-        "thursday": "11:30-14:00, 18:30-22:00",
-        "friday": "11:30-14:00, 18:30-22:30",
-        "saturday": "11:30-14:00, 18:30-22:30",
-        "sunday": "18:30-22:00"
-      },
       "description": "Local chain focused on using organic, locally-sourced ingredients where possible. Their Hawaiian pizza includes a touch of crème fraîche, a popular addition in French pizzerias.",
       "features": ["Organic ingredients", "Multiple locations", "Eco-friendly packaging", "Delivery available"]
-    },
-    {
-      "name": "La Piazza",
-      "address": "25 Rue des Gras, 63000 Clermont-Ferrand",
-      "website": "https://www.lapiazza-clermont.fr",
-      "phone": "+33 4 73 36 40 70",
-      "specialty": "Pizza Exotique (sauce tomate, mozzarella, jambon, ananas, champignons, origan)",
-      "price_range": "€€",
-      "rating": 4.0,
-      "hours": {
-        "monday": "12:00-14:00, 19:00-22:00",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "Closed"
-      },
-      "description": "Traditional Italian restaurant in the heart of the city's shopping district. Their 'Exotic' pizza adds mushrooms to the classic Hawaiian combination for an earthy contrast.",
-      "features": ["Central location", "Shopping district", "Tourist-friendly", "Traditional recipes"]
-    },
-    {
-      "name": "Le Vesuvio",
-      "address": "45 Rue de l'Oradou, 63000 Clermont-Ferrand",
-      "website": "https://www.pizzeria-vesuvio.fr",
-      "phone": "+33 4 73 90 09 92",
-      "specialty": "Hawaïenne Auvergnate (sauce tomate, mozzarella, jambon d'Auvergne, ananas, Saint-Nectaire)",
-      "price_range": "€€",
-      "rating": 4.4,
-      "hours": {
-        "monday": "19:00-22:00",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
-      "description": "Family-owned pizzeria adding Auvergne regional touches to Italian classics. Their unique Hawaiian variation incorporates local Auvergne ham and Saint-Nectaire cheese for a true regional fusion.",
-      "features": ["Local Auvergne ingredients", "Regional specialties", "Family recipes", "Warm atmosphere"]
-    },
-    {
-      "name": "Gusto Pizza",
-      "address": "3 Rue du Cheval Blanc, 63000 Clermont-Ferrand",
-      "website": "https://www.gustopizza-clermont.fr",
-      "phone": "+33 4 73 91 65 11",
-      "specialty": "Aloha (sauce tomate, mozzarella di bufala, jambon cuit, ananas caramélisé, basilic frais)",
-      "price_range": "€€€",
-      "rating": 4.6,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
-      "description": "Gourmet pizzeria focusing on premium ingredients and contemporary techniques. Their elevated Hawaiian pizza features buffalo mozzarella and caramelized pineapple for enhanced flavor complexity.",
-      "features": ["Gourmet approach", "Premium ingredients", "Contemporary decor", "Wine pairing suggestions"]
-    },
-    {
-      "name": "Pizza Lucia",
-      "address": "21 Boulevard Léon Malfreyt, 63000 Clermont-Ferrand",
-      "website": "https://www.pizzalucia.fr",
-      "phone": "+33 4 73 92 15 37",
-      "specialty": "Tropicale Pimentée (sauce tomate, mozzarella, jambon, ananas, jalapenos, poivrons)",
-      "price_range": "€",
-      "rating": 4.1,
-      "hours": {
-        "monday": "11:30-14:00, 18:00-22:00",
-        "tuesday": "11:30-14:00, 18:00-22:00",
-        "wednesday": "11:30-14:00, 18:00-22:00",
-        "thursday": "11:30-14:00, 18:00-22:00",
-        "friday": "11:30-14:00, 18:00-22:30",
-        "saturday": "11:30-14:00, 18:00-22:30",
-        "sunday": "18:00-22:00"
-      },
-      "description": "Budget-friendly pizzeria popular with students from the nearby university. Their spicy tropical pizza adds jalapeños and bell peppers to the Hawaiian base for those who prefer heat with their sweet.",
-      "features": ["Student discounts", "Fast delivery", "Budget-friendly", "Large portions"]
-    },
-    {
-      "name": "Via Roma",
-      "address": "2 Rue Massillon, 63000 Clermont-Ferrand",
-      "website": "https://www.viaroma-clermont.fr",
-      "phone": "+33 4 73 91 58 44",
-      "specialty": "Hawaii Dolce (sauce tomate, mozzarella, jambon italien, ananas, miel de châtaignier)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
-      "description": "Authentic Italian restaurant near Clermont-Ferrand's cathedral. Their 'Sweet Hawaii' pizza includes a drizzle of local chestnut honey for an additional layer of sweetness that complements the pineapple.",
-      "features": ["Cathedral district location", "Authentic Italian", "Local honey", "Romantic atmosphere"]
-    },
-    {
-      "name": "La Pizz'",
-      "address": "143 Avenue de la Libération, 63000 Clermont-Ferrand",
-      "website": "https://www.lapizz-clermont.fr",
-      "phone": "+33 4 73 26 71 13",
-      "specialty": "Hawaïenne à la Française (sauce tomate, emmental, jambon blanc, ananas, crème fraîche)",
-      "price_range": "€",
-      "rating": 4.0,
-      "hours": {
-        "monday": "11:00-14:00, 18:00-22:00",
-        "tuesday": "11:00-14:00, 18:00-22:00",
-        "wednesday": "11:00-14:00, 18:00-22:00",
-        "thursday": "11:00-14:00, 18:00-22:00",
-        "friday": "11:00-14:00, 18:00-23:00",
-        "saturday": "11:00-14:00, 18:00-23:00",
-        "sunday": "18:00-22:00"
-      },
-      "description": "No-frills local pizzeria focused on takeaway and delivery. Their French-style Hawaiian uses emmental instead of mozzarella and adds crème fraîche for a distinctly French interpretation.",
-      "features": ["Delivery focused", "Quick service", "Budget-friendly", "Family meal deals"]
-    },
-    {
-      "name": "Le Four à Bois",
-      "address": "18 Rue du Port, 63000 Clermont-Ferrand",
-      "website": "https://www.lefourabois-clermont.fr",
-      "phone": "+33 4 73 90 48 67",
-      "specialty": "Pizza Volcano Tropical (sauce tomate, mozzarella, jambon, ananas, bleu d'Auvergne, noix)",
-      "price_range": "€€",
-      "rating": 4.3,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
-      "description": "Traditional wood-fired pizzeria with Auvergne influences. Their 'Volcano Tropical' combines Hawaiian toppings with regional Bleu d'Auvergne cheese and walnuts for a distinctive local character.",
-      "features": ["Wood-fired oven", "Regional cheeses", "Local wines", "Rustic decor"]
     }
-  ],
-  "last_updated": "2024-10-01",
-  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+  ]
 }

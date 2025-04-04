@@ -8,15 +8,6 @@
       "specialty": "Da Kine (tomato sauce, mozzarella, pineapple, ham, jalapeños, Hawaiian sea salt)",
       "price_range": "€€",
       "rating": 4.6,
-      "hours": {
-        "monday": "11:00-23:00",
-        "tuesday": "11:00-23:00",
-        "wednesday": "11:00-23:00",
-        "thursday": "11:00-23:00",
-        "friday": "11:00-00:00",
-        "saturday": "11:00-00:00",
-        "sunday": "11:00-23:00"
-      },
       "description": "Hipster-chic pizza destination in Bushwick offering wood-fired Neapolitan-inspired pies. Their Hawaiian pizza gets an upgrade with jalapeños and Hawaiian sea salt for extra flavor depth.",
       "features": ["Wood-fired oven", "Outdoor garden", "Craft beer selection", "Multiple locations"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Pineapple Upside Down Pie (tomato sauce, mozzarella, pineapple, speck, calabrian chili honey)",
       "price_range": "€€",
       "rating": 4.7,
-      "hours": {
-        "monday": "17:00-22:00",
-        "tuesday": "17:00-22:00",
-        "wednesday": "17:00-22:00",
-        "thursday": "17:00-22:00",
-        "friday": "17:00-23:00",
-        "saturday": "17:00-23:00",
-        "sunday": "17:00-22:00"
-      },
       "description": "Artisanal pizzeria serving creative wood-fired pies in Greenpoint. Their pineapple pizza combines sweet and heat with calabrian chili honey and premium speck instead of standard ham.",
       "features": ["Wood-fired oven", "Vegan options", "No reservations", "Slice shop sister location"]
     },
@@ -48,159 +30,8 @@
       "specialty": "Big Kahuna (Detroit-style square pizza with red sauce, mozzarella, pineapple, bacon, jalapeños, ranch)",
       "price_range": "€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "17:00-22:00",
-        "tuesday": "17:00-22:00",
-        "wednesday": "17:00-22:00",
-        "thursday": "17:00-22:00",
-        "friday": "12:00-22:30",
-        "saturday": "12:00-22:30",
-        "sunday": "12:00-22:00"
-      },
       "description": "Detroit-style square pizza spot known for thick, crispy-edged pies. Their Hawaiian-inspired pizza uses bacon instead of ham and adds ranch drizzle and jalapeños for a sweet-savory-spicy combo.",
       "features": ["Detroit-style square pies", "Famous burger", "Multiple locations", "Full bar"]
-    },
-    {
-      "name": "Prince Street Pizza",
-      "address": "27 Prince St, New York, NY 10012",
-      "website": "https://www.princestpizza.com",
-      "phone": "+1 212-966-4100",
-      "specialty": "Hawaiian Perfection (Sicilian square slice with tomato sauce, mozzarella, ham, pineapple, Mike's Hot Honey)",
-      "price_range": "€",
-      "rating": 4.4,
-      "hours": {
-        "monday": "11:00-22:00",
-        "tuesday": "11:00-22:00",
-        "wednesday": "11:00-22:00",
-        "thursday": "11:00-00:00",
-        "friday": "11:00-01:00",
-        "saturday": "11:00-01:00",
-        "sunday": "11:00-22:00"
-      },
-      "description": "Famous SoHo slice shop known for Sicilian squares. While their pepperoni is most famous, their Hawaiian slice gets an upgrade with a drizzle of spicy honey for sweet heat.",
-      "features": ["Slice shop", "Standing room only", "Long lines", "Late night options"]
-    },
-    {
-      "name": "Scarr's Pizza",
-      "address": "22 Orchard St, New York, NY 10002",
-      "website": "https://www.scarrspizza.com",
-      "phone": "+1 212-334-3481",
-      "specialty": "Paradise Found (mozzarella, ham, pineapple, jalapeños on stone-milled flour crust)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "11:30-22:00",
-        "tuesday": "11:30-22:00",
-        "wednesday": "11:30-22:00",
-        "thursday": "11:30-00:00",
-        "friday": "11:30-00:00",
-        "saturday": "11:30-00:00",
-        "sunday": "11:30-22:00"
-      },
-      "description": "Retro-styled Lower East Side pizzeria famous for using freshly milled flour. Their Hawaiian slice combines traditional toppings with jalapeños on their signature health-conscious crust.",
-      "features": ["House-milled flour", "Natural wine selection", "Retro 70s decor", "Eco-conscious approach"]
-    },
-    {
-      "name": "Rubirosa",
-      "address": "235 Mulberry St, New York, NY 10012",
-      "website": "https://www.rubirosanyc.com",
-      "phone": "+1 212-965-0500",
-      "specialty": "Hawaiian Supreme (thin-crust vodka sauce, mozzarella, ham, caramelized pineapple, basil)",
-      "price_range": "€€€",
-      "rating": 4.7,
-      "hours": {
-        "monday": "11:30-23:00",
-        "tuesday": "11:30-23:00",
-        "wednesday": "11:30-23:00",
-        "thursday": "11:30-23:00",
-        "friday": "11:30-00:00",
-        "saturday": "11:30-00:00",
-        "sunday": "11:30-23:00"
-      },
-      "description": "Upscale Italian restaurant and pizzeria serving ultra-thin crust pies derived from a family recipe. Their Hawaiian pizza uses their famous vodka sauce base and caramelized pineapple for elevated flavor.",
-      "features": ["Ultra-thin crust", "Family recipes", "Full Italian menu", "Reservations recommended"]
-    },
-    {
-      "name": "Speedy Romeo",
-      "address": "376 Classon Ave, Brooklyn, NY 11238",
-      "website": "https://www.speedyromeo.com",
-      "phone": "+1 718-230-0061",
-      "specialty": "Hawaii Five-O (tomato sauce, mozzarella, pineapple, smoked ham, wood-roasted peppers)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "17:00-22:00",
-        "tuesday": "17:00-22:00",
-        "wednesday": "17:00-22:00",
-        "thursday": "17:00-22:00",
-        "friday": "12:00-23:00",
-        "saturday": "12:00-23:00",
-        "sunday": "12:00-22:00"
-      },
-      "description": "Wood-fired pizzeria operating out of a former auto body shop in Clinton Hill. Their Hawaiian pizza includes wood-roasted peppers for an additional smoky dimension.",
-      "features": ["Wood-fired oven", "Converted auto shop", "Craft cocktails", "Weekend brunch"]
-    },
-    {
-      "name": "Two Boots",
-      "address": "42 Avenue A, New York, NY 10009",
-      "website": "https://www.twoboots.com",
-      "phone": "+1 212-254-1919",
-      "specialty": "Bayou Beast Hawaiian (cornmeal crust, tomato sauce, mozzarella, pineapple, cajun bacon, andouille sausage)",
-      "price_range": "€€",
-      "rating": 4.2,
-      "hours": {
-        "monday": "11:30-00:00",
-        "tuesday": "11:30-00:00",
-        "wednesday": "11:30-00:00",
-        "thursday": "11:30-00:00",
-        "friday": "11:30-01:00",
-        "saturday": "11:30-01:00",
-        "sunday": "11:30-00:00"
-      },
-      "description": "New York institution known for unique cornmeal crust and creative topping combinations. Their Hawaiian pizza gets a Cajun twist with andouille sausage and cajun-spiced bacon.",
-      "features": ["Cornmeal crust", "Movie-themed pies", "Multiple locations", "Delivery available"]
-    },
-    {
-      "name": "Artichoke Basille's Pizza",
-      "address": "321 E 14th St, New York, NY 10003",
-      "website": "https://www.artichokepizza.com",
-      "phone": "+1 212-228-2004",
-      "specialty": "Hawaiian Artichoke (thick-crust pizza with tomato sauce, mozzarella, artichoke hearts, ham, pineapple)",
-      "price_range": "€€",
-      "rating": 4.3,
-      "hours": {
-        "monday": "11:00-04:00",
-        "tuesday": "11:00-04:00",
-        "wednesday": "11:00-04:00",
-        "thursday": "11:00-04:00",
-        "friday": "11:00-05:00",
-        "saturday": "11:00-05:00",
-        "sunday": "11:00-04:00"
-      },
-      "description": "Beloved late-night slice shop known for enormous, thick slices. Their Hawaiian variation adds artichoke hearts to the traditional combination for an extra flavor dimension.",
-      "features": ["Huge slices", "Late night hours", "Multiple locations", "Cult following"]
-    },
-    {
-      "name": "Emily",
-      "address": "919 Fulton St, Brooklyn, NY 11238",
-      "website": "https://www.pizzalovesemily.com",
-      "phone": "+1 347-844-9588",
-      "specialty": "P.H.O.a.T. (Pineapple, Honey, Onion and Thin ham on wood-fired sourdough crust)",
-      "price_range": "€€€",
-      "rating": 4.6,
-      "hours": {
-        "monday": "17:00-22:00",
-        "tuesday": "17:00-22:00",
-        "wednesday": "17:00-22:00",
-        "thursday": "17:00-22:00",
-        "friday": "12:00-23:00",
-        "saturday": "12:00-23:00",
-        "sunday": "12:00-22:00"
-      },
-      "description": "Critically acclaimed pizza spot serving wood-fired pies and award-winning burgers. Their creative take on Hawaiian pizza adds honey and thinly-sliced red onions for complexity.",
-      "features": ["Wood-fired sourdough", "Famous burger", "Craft cocktails", "Sister to Emmy Squared"]
     }
-  ],
-  "last_updated": "2024-10-01",
-  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+  ]
 }

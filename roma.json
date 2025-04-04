@@ -1,0 +1,37 @@
+{
+  "pizzerias": [
+    {
+      "name": "Pizzeria Ai Marmi",
+      "address": "Via dei Marmi, 53, 00153 Roma RM",
+      "website": "https://www.pizzeriaimarmi.com",
+      "phone": "+39 06 580 0919",
+      "specialty": "Pizza Tropicale (pineapple, ham, mozzarella)",
+      "price_range": "€€",
+      "rating": 4.3,
+      "description": "Known as 'L'Obitorio' (The Morgue) by locals due to its marble tables, this classic Roman pizzeria serves thin, crispy pizzas including a special Hawaiian version for international visitors.",
+      "features": ["Traditional Roman-style thin crust", "Outdoor seating", "Local favorite", "No reservations"]
+    },
+    {
+      "name": "Emma Pizzeria",
+      "address": "Via del Monte della Farina, 28, 00186 Roma RM",
+      "website": "https://www.emmapizzeria.com",
+      "phone": "+39 06 6476 0475",
+      "specialty": "Ananas e Prosciutto (pineapple, cooked ham, fior di latte)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "description": "Upscale pizzeria using organic flours and premium ingredients. They offer a Hawaiian-style pizza that pairs perfectly with their extensive wine list.",
+      "features": ["Reservations recommended", "Gourmet ingredients", "Wine pairing", "Elegant atmosphere"]
+    },
+    {
+      "name": "Seu Pizza Illuminati",
+      "address": "Via Angelo Bargoni, 10-18, 00153 Roma RM",
+      "website": "https://www.seupizzailluminati.it",
+      "phone": "+39 06 5883384",
+      "specialty": "Tropicana Remix (pineapple, rum-infused ham, smoked provola)",
+      "price_range": "€€€",
+      "rating": 4.7,
+      "description": "Award-winning innovative pizzeria known for experimental combinations. Their Hawaiian-inspired pizza features rum-infused ham and caramelized pineapple.",
+      "features": ["Innovative techniques", "Among Italy's top 50 pizzerias", "Contemporary atmosphere", "Reservations essential"]
+    }
+  ]
+}

@@ -8,15 +8,6 @@
       "specialty": "Pizza Hawaii (sauce tomate, mozzarella, jambon, ananas frais, origan)",
       "price_range": "€€",
       "rating": 4.4,
-      "hours": {
-        "monday": "12:00-14:00, 19:00-22:30",
-        "tuesday": "12:00-14:00, 19:00-22:30",
-        "wednesday": "12:00-14:00, 19:00-22:30",
-        "thursday": "12:00-14:00, 19:00-22:30",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:30, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
       "description": "Family-owned Italian restaurant serving authentic wood-fired pizzas since 1998. Their Hawaiian pizza uses fresh pineapple rather than canned for a superior flavor.",
       "features": ["Wood-fired oven", "Family-owned", "Central location", "Terrace seating"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Tropicale (sauce tomate, mozzarella, jambon cuit, ananas, basilic frais)",
       "price_range": "€€",
       "rating": 4.3,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:00, 19:00-22:30",
-        "sunday": "19:00-22:00"
-      },
       "description": "Traditional pizzeria near the train station serving a variety of Italian classics. Their Hawaiian pizza comes with fresh basil to add an aromatic element to the sweet-savory combination.",
       "features": ["Traditional recipes", "Homemade desserts", "Student discounts", "Wine selection"]
     },
@@ -48,15 +30,6 @@
       "specialty": "Exotique (sauce tomate, mozzarella, jambon, ananas, poivrons, olives)",
       "price_range": "€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "12:00-14:00, 19:00-22:00",
-        "tuesday": "12:00-14:00, 19:00-22:00",
-        "wednesday": "12:00-14:00, 19:00-22:00",
-        "thursday": "12:00-14:00, 19:00-22:00",
-        "friday": "12:00-14:00, 19:00-22:30",
-        "saturday": "12:00-14:30, 19:00-22:30",
-        "sunday": "12:00-14:00, 19:00-22:00"
-      },
       "description": "Pizzeria in the heart of Grenoble's historic center. Their 'Exotic' pizza adds bell peppers and olives to the traditional Hawaiian combo for extra Mediterranean flavor.",
       "features": ["Historic center location", "Spacious terrace", "Authentic Neapolitan style", "Tourist-friendly"]
     }

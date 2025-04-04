@@ -1,0 +1,37 @@
+{
+  "pizzerias": [
+    {
+      "name": "Pizzium",
+      "address": "Via Procaccini, 30, 20154 Milano MI",
+      "website": "https://www.pizzium.com",
+      "phone": "+39 02 3464 1616",
+      "specialty": "Honolulu (San Marzano tomatoes, fior di latte, pineapple, cooked ham)",
+      "price_range": "€€",
+      "rating": 4.4,
+      "description": "A popular chain focused on regional Italian pizzas, Pizzium offers a special Honolulu pizza for international guests, made with high-quality pineapple and premium ham.",
+      "features": ["Multiple locations", "Craft beer selection", "Regional Italian ingredients", "Modern atmosphere"]
+    },
+    {
+      "name": "Dry Milano",
+      "address": "Via Solferino, 33, 20121 Milano MI",
+      "website": "https://www.drymilano.it",
+      "phone": "+39 02 6379 3414",
+      "specialty": "Tropical (caramelized pineapple, 24-month aged prosciutto, fior di latte, basil)",
+      "price_range": "€€€",
+      "rating": 4.6,
+      "description": "A contemporary pizzeria and cocktail bar that merges gourmet pizza with mixology. Their upscale take on pineapple pizza features caramelized fruit and aged prosciutto.",
+      "features": ["Craft cocktails", "Gourmet approach", "Stylish interior", "Brera district location"]
+    },
+    {
+      "name": "Gino Sorbillo Lievito Madre",
+      "address": "Largo Corsia dei Servi, 11, 20122 Milano MI",
+      "website": "https://www.sorbillo.it",
+      "phone": "+39 02 4549 5641",
+      "specialty": "Ananas e Prosciutto (fresh pineapple, prosciutto cotto, buffalo mozzarella, basil)",
+      "price_range": "€€",
+      "rating": 4.5,
+      "description": "Legendary Neapolitan pizzaiolo Gino Sorbillo's Milan outpost near the Duomo. Known for fluffy, soft-centered Neapolitan pizzas, they offer an elevated Hawaiian for international guests.",
+      "features": ["Famous pizzaiolo", "Neapolitan style", "Central location", "Long queues common"]
+    }
+  ]
+}

@@ -8,15 +8,6 @@
       "specialty": "Hawaii Especial (salsa de tomate, mozzarella, jamón dulce, piña, maíz)",
       "price_range": "€€",
       "rating": 4.3,
-      "hours": {
-        "monday": "12:00-00:00",
-        "tuesday": "12:00-00:00",
-        "wednesday": "12:00-00:00",
-        "thursday": "12:00-00:00",
-        "friday": "12:00-01:00",
-        "saturday": "12:00-01:00",
-        "sunday": "12:00-00:00"
-      },
       "description": "Family-friendly pizzeria with circus-themed decor near Sagrada Familia. Their Hawaiian pizza includes sweet corn, a popular addition in Spanish variations of this international favorite.",
       "features": ["Family-friendly", "Themed interior", "Tourist location", "Delivery available"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Tropicale (salsa de tomate, mozzarella fior di latte, jamón cocido, piña fresca)",
       "price_range": "€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "19:30-23:30",
-        "tuesday": "13:00-16:00, 19:30-23:30",
-        "wednesday": "13:00-16:00, 19:30-23:30",
-        "thursday": "13:00-16:00, 19:30-23:30",
-        "friday": "13:00-16:00, 19:30-00:00",
-        "saturday": "13:00-16:00, 19:30-00:00",
-        "sunday": "13:00-16:00, 19:30-23:30"
-      },
       "description": "Authentic Neapolitan pizzeria operating in Barcelona since 1979. Despite their traditional leanings, they offer a Hawaiian-style pizza using imported Italian ingredients and fresh pineapple.",
       "features": ["Wood-fired oven", "Authentic Neapolitan", "Italian family-owned", "Traditional recipes"]
     },
@@ -48,159 +30,9 @@
       "specialty": "Hawaiana Catalana (salsa de tomate, mozzarella, jamón serrano, piña caramelizada, rúcula)",
       "price_range": "€€",
       "rating": 4.4,
-      "hours": {
-        "monday": "18:00-00:00",
-        "tuesday": "18:00-00:00",
-        "wednesday": "18:00-00:00",
-        "thursday": "18:00-00:00",
-        "friday": "12:00-00:00",
-        "saturday": "12:00-00:00",
-        "sunday": "12:00-00:00"
-      },
       "description": "Modern pizzeria in the trendy El Born district. Their Catalan twist on Hawaiian pizza substitutes standard ham with serrano ham and adds arugula, topped with caramelized pineapple.",
       "features": ["Catalan fusion", "Craft beer selection", "Hip neighborhood", "Terrace seating"]
-    },
-    {
-      "name": "Pizzeria La Nova",
-      "address": "Carrer de Viladomat, 59, 08015 Barcelona",
-      "website": "https://www.pizzerialanova.com",
-      "phone": "+34 933 25 50 66",
-      "specialty": "Hawaii Picante (salsa de tomate, mozzarella, jamón, piña, jalapeños, cebolla roja)",
-      "price_range": "€",
-      "rating": 4.2,
-      "hours": {
-        "monday": "12:00-16:00, 19:00-23:30",
-        "tuesday": "12:00-16:00, 19:00-23:30",
-        "wednesday": "12:00-16:00, 19:00-23:30",
-        "thursday": "12:00-16:00, 19:00-23:30",
-        "friday": "12:00-16:00, 19:00-00:30",
-        "saturday": "12:00-16:00, 19:00-00:30",
-        "sunday": "12:00-16:00, 19:00-23:30"
-      },
-      "description": "Neighborhood pizzeria offering good value and generous portions. Their spicy Hawaiian adds jalapeños and red onions to the classic combination for extra flavor.",
-      "features": ["Budget-friendly", "Large portions", "Local favorite", "Fast delivery"]
-    },
-    {
-      "name": "NAP Antic",
-      "address": "Av. de Francesc Cambó, 30, 08003 Barcelona",
-      "website": "https://www.napanticpizzeria.com",
-      "phone": "+34 932 68 04 86",
-      "specialty": "Ananás y Jamón (salsa de tomate San Marzano, mozzarella fior di latte, jamón cocido, piña asada)",
-      "price_range": "€€",
-      "rating": 4.6,
-      "hours": {
-        "monday": "13:00-16:00, 19:00-23:30",
-        "tuesday": "13:00-16:00, 19:00-23:30",
-        "wednesday": "13:00-16:00, 19:00-23:30",
-        "thursday": "13:00-16:00, 19:00-23:30",
-        "friday": "13:00-16:00, 19:00-00:00",
-        "saturday": "13:00-16:00, 19:00-00:00",
-        "sunday": "13:00-16:00, 19:00-23:30"
-      },
-      "description": "Neapolitan Authentic Pizza (NAP) serves traditional Neapolitan-style pizzas using premium imported ingredients. Their Hawaiian variation features roasted pineapple for enhanced flavor.",
-      "features": ["Award-winning", "Traditional methods", "DOP ingredients", "Neapolitan certified"]
-    },
-    {
-      "name": "Pizzería Sports Bar",
-      "address": "Carrer d'Ample, 51, 08002 Barcelona",
-      "website": "https://www.pizzeriasportsbar.com",
-      "phone": "+34 932 95 54 33",
-      "specialty": "Hawaii Five-O (salsa de tomate, mozzarella, jamón, piña, bacon)",
-      "price_range": "€€",
-      "rating": 4.2,
-      "hours": {
-        "monday": "17:00-02:00",
-        "tuesday": "17:00-02:00",
-        "wednesday": "17:00-02:00",
-        "thursday": "17:00-02:00",
-        "friday": "17:00-03:00",
-        "saturday": "13:00-03:00",
-        "sunday": "13:00-02:00"
-      },
-      "description": "American-style sports bar serving pizzas late into the night. Their Hawaiian pizza includes bacon alongside ham for extra flavor and is popular with the late-night crowd.",
-      "features": ["Sports broadcasts", "Late night dining", "American style", "Full bar"]
-    },
-    {
-      "name": "Bráva Pizza",
-      "address": "Carrer d'Aribau, 112, 08036 Barcelona",
-      "website": "https://www.bravapizza.com",
-      "phone": "+34 934 52 91 70",
-      "specialty": "Piña Brava (salsa de tomate, mozzarella, piña caramelizada, jamón ibérico, chiles, miel)",
-      "price_range": "€€€",
-      "rating": 4.7,
-      "hours": {
-        "monday": "19:30-23:30",
-        "tuesday": "19:30-23:30",
-        "wednesday": "19:30-23:30",
-        "thursday": "19:30-23:30",
-        "friday": "13:00-15:30, 19:30-00:00",
-        "saturday": "13:00-15:30, 19:30-00:00",
-        "sunday": "19:30-23:30"
-      },
-      "description": "Gourmet pizzeria focusing on innovative combinations with high-quality ingredients. Their premium Hawaiian replaces regular ham with ibérico ham and adds chili peppers and honey.",
-      "features": ["Gourmet approach", "Natural wines", "Upscale atmosphere", "Seasonal ingredients"]
-    },
-    {
-      "name": "La Pizzería de l'Hort",
-      "address": "Carrer del Torrent de l'Olla, 138, 08012 Barcelona",
-      "website": "https://www.pizzeriahort.com",
-      "phone": "+34 932 18 70 92",
-      "specialty": "Tropical Ecológica (salsa de tomate orgánico, mozzarella, jamón ecológico, piña fresca, albahaca)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "19:00-23:30",
-        "tuesday": "19:00-23:30",
-        "wednesday": "19:00-23:30",
-        "thursday": "19:00-23:30",
-        "friday": "13:00-16:00, 19:00-00:00",
-        "saturday": "13:00-16:00, 19:00-00:00",
-        "sunday": "13:00-16:00, 19:00-23:30"
-      },
-      "description": "Organic pizzeria using locally-sourced and ecological ingredients. Their Hawaiian pizza features organic ham and fresh pineapple sourced from sustainable producers.",
-      "features": ["Organic ingredients", "Eco-friendly", "Farm-to-table", "Health-conscious options"]
-    },
-    {
-      "name": "Pizza Dojo",
-      "address": "Carrer del Baluard, 69, 08003 Barcelona",
-      "website": "https://www.pizzadojo.es",
-      "phone": "+34 936 76 47 57",
-      "specialty": "Tokyo-Hawaii Fusion (salsa de tomate, mozzarella, jamón, piña, teriyaki, sésamo)",
-      "price_range": "€€",
-      "rating": 4.4,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "19:00-23:30",
-        "wednesday": "19:00-23:30",
-        "thursday": "19:00-23:30",
-        "friday": "13:00-16:00, 19:00-00:00",
-        "saturday": "13:00-16:00, 19:00-00:00",
-        "sunday": "13:00-16:00, 19:00-23:30"
-      },
-      "description": "Fusion pizzeria blending Japanese and Italian influences. Their unique Hawaiian pizza includes teriyaki sauce and sesame seeds for an Asian twist on the classic.",
-      "features": ["Fusion cuisine", "Japanese-Italian", "Creative combinations", "Craft sake selection"]
-    },
-    {
-      "name": "Margherita",
-      "address": "Carrer dels Assaonadors, 7, 08003 Barcelona",
-      "website": "https://www.margheritabcn.com",
-      "phone": "+34 933 10 12 39",
-      "specialty": "Hawai di Napoli (salsa de tomate San Marzano, mozzarella di bufala, prosciutto cotto, piña confitada)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "19:00-23:00",
-        "tuesday": "19:00-23:00",
-        "wednesday": "19:00-23:00",
-        "thursday": "19:00-23:00",
-        "friday": "13:00-16:00, 19:00-23:30",
-        "saturday": "13:00-16:00, 19:00-23:30",
-        "sunday": "13:00-16:00, 19:00-23:00"
-      },
-      "description": "Traditional Neapolitan pizzeria in the heart of El Born. Their upscale Hawaiian pizza uses buffalo mozzarella and candied pineapple for a gourmet interpretation.",
-      "features": ["Authentic Neapolitan", "Imported Italian ingredients", "Historic district", "Rustic atmosphere"]
     }
-  ],
-  "last_updated": "2024-10-01",
-  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+
+  ]
 }

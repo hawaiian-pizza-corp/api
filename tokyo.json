@@ -8,15 +8,6 @@
       "specialty": "Hawaiian Paradise (tomato sauce, mozzarella, ham, fresh pineapple, jalapeño)",
       "price_range": "€€",
       "rating": 4.4,
-      "hours": {
-        "monday": "11:30-22:00",
-        "tuesday": "11:30-22:00",
-        "wednesday": "11:30-22:00",
-        "thursday": "11:30-22:00",
-        "friday": "11:30-23:00",
-        "saturday": "11:30-23:00",
-        "sunday": "11:30-22:00"
-      },
       "description": "New York-style pizza by the slice in the heart of Ebisu. Their Hawaiian Paradise pizza adds jalapeños for a spicy kick to balance the sweetness of the pineapple.",
       "features": ["Pizza by the slice", "Casual atmosphere", "Takeout available", "American-style"]
     },
@@ -28,15 +19,6 @@
       "specialty": "Ananas Special (San Marzano tomatoes, fior di latte, prosciutto cotto, caramelized pineapple)",
       "price_range": "€€€",
       "rating": 4.7,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "18:00-22:00",
-        "wednesday": "18:00-22:00",
-        "thursday": "18:00-22:00",
-        "friday": "18:00-22:00",
-        "saturday": "12:00-15:00, 18:00-22:00",
-        "sunday": "12:00-15:00, 18:00-22:00"
-      },
       "description": "Acclaimed pizzeria run by Tsubasa Tamaki, who trained under legendary pizzaiolo Susumu Kakinuma. Their pineapple pizza uses caramelized fruit for enhanced flavor and balance.",
       "features": ["Award-winning", "Wood-fired oven", "Reservations essential", "Italian imports"]
     },
@@ -48,159 +30,8 @@
       "specialty": "Tropical Naples (tomato sauce, mozzarella, Italian ham, fresh pineapple, basil)",
       "price_range": "€€",
       "rating": 4.5,
-      "hours": {
-        "monday": "11:30-15:00, 17:30-22:00",
-        "tuesday": "11:30-15:00, 17:30-22:00",
-        "wednesday": "11:30-15:00, 17:30-22:00",
-        "thursday": "11:30-15:00, 17:30-22:00",
-        "friday": "11:30-15:00, 17:30-22:00",
-        "saturday": "11:30-22:00",
-        "sunday": "11:30-22:00"
-      },
       "description": "Local pizza institution started by the owner of Seirinkan, featuring Neapolitan-style pizzas with a Japanese touch. Their Hawaiian offering uses fresh, not canned, pineapple for superior flavor.",
       "features": ["Classic Neapolitan style", "Affordable lunch sets", "Local favorite", "Minimalist menu"]
-    },
-    {
-      "name": "Pizzeria e Braceria L'Insieme",
-      "address": "1-5-7 Kameido, Koto-ku, Tokyo 136-0071",
-      "website": "https://www.linsieme.jp",
-      "phone": "+81 3-3636-5980",
-      "specialty": "Hawaii Fusion (tomato sauce, mozzarella, prosciutto cotto, pineapple, Japanese shiso leaves)",
-      "price_range": "€€",
-      "rating": 4.6,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "11:30-14:30, 17:30-22:00",
-        "wednesday": "11:30-14:30, 17:30-22:00",
-        "thursday": "11:30-14:30, 17:30-22:00",
-        "friday": "11:30-14:30, 17:30-22:00",
-        "saturday": "11:30-14:30, 17:30-22:00",
-        "sunday": "11:30-14:30, 17:30-22:00"
-      },
-      "description": "Named one of the world's best pizzerias by 50 Top Pizza, L'Insieme offers creative takes on classic pies. Their Hawaiian variation adds Japanese shiso leaves for a unique East-meets-West flavor profile.",
-      "features": ["World-renowned", "Open kitchen", "Creative toppings", "Japanese-Italian fusion"]
-    },
-    {
-      "name": "800 Degrees Neapolitan Pizzeria",
-      "address": "5F Otemachi Park Building, 1-1-1 Otemachi, Chiyoda-ku, Tokyo 100-0004",
-      "website": "https://www.800degrees.jp",
-      "phone": "+81 3-6206-3911",
-      "specialty": "Custom Hawaiian (tomato sauce, mozzarella, ham, fresh pineapple with optional add-ons)",
-      "price_range": "€€",
-      "rating": 4.3,
-      "hours": {
-        "monday": "11:00-22:00",
-        "tuesday": "11:00-22:00",
-        "wednesday": "11:00-22:00",
-        "thursday": "11:00-22:00",
-        "friday": "11:00-22:00",
-        "saturday": "11:00-22:00",
-        "sunday": "11:00-21:00"
-      },
-      "description": "International chain serving Neapolitan-style pizzas cooked at 800 degrees Fahrenheit. Their build-your-own concept allows customers to customize their Hawaiian pizza with additional toppings.",
-      "features": ["Customizable pizzas", "Fast-casual concept", "Premium ingredients", "Business district location"]
-    },
-    {
-      "name": "Devilcraft",
-      "address": "2-13-12 Hamamatsucho, Minato-ku, Tokyo 105-0013",
-      "website": "https://www.devilcraft.jp",
-      "phone": "+81 3-6435-8428",
-      "specialty": "Hawaiian Devil (Chicago deep-dish with tomato sauce, mozzarella, ham, pineapple, jalapeños)",
-      "price_range": "€€",
-      "rating": 4.5,
-      "hours": {
-        "monday": "17:00-23:00",
-        "tuesday": "17:00-23:00",
-        "wednesday": "17:00-23:00",
-        "thursday": "17:00-23:00",
-        "friday": "17:00-23:00",
-        "saturday": "15:00-23:00",
-        "sunday": "15:00-22:00"
-      },
-      "description": "American-style craft beer and pizza pub specializing in Chicago deep-dish pizzas. Their Hawaiian offering comes on a thick, buttery crust with generous toppings.",
-      "features": ["Chicago deep-dish style", "Craft beer selection", "American atmosphere", "Multiple locations"]
-    },
-    {
-      "name": "Pizzeria Da Isa",
-      "address": "1-28-9 Aobadai, Meguro-ku, Tokyo 153-0042",
-      "website": "https://www.da-isa.jp",
-      "phone": "+81 3-5729-9472",
-      "specialty": "Tropicale (San Marzano tomatoes, fior di latte, prosciutto, fresh pineapple, mint)",
-      "price_range": "€€€",
-      "rating": 4.7,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "18:00-23:00",
-        "wednesday": "18:00-23:00",
-        "thursday": "18:00-23:00",
-        "friday": "18:00-23:00",
-        "saturday": "12:00-15:00, 18:00-23:00",
-        "sunday": "12:00-15:00, 18:00-23:00"
-      },
-      "description": "Award-winning pizzeria run by Hisanori Yamamoto, who won multiple pizza-making trophies in Naples. Their Hawaiian pizza adds fresh mint for a refreshing twist.",
-      "features": ["Award-winning", "Sourdough base", "Trophy-winning chef", "Authentic Neapolitan"]
-    },
-    {
-      "name": "Pizza Strada",
-      "address": "3-1-19 Azabu-Juban, Minato-ku, Tokyo 106-0045",
-      "website": "https://www.pizzastrada.jp",
-      "phone": "+81 3-6434-5988",
-      "specialty": "Hawaiana (tomato sauce, smoked mozzarella, prosciutto cotto, pineapple, basil)",
-      "price_range": "€€",
-      "rating": 4.6,
-      "hours": {
-        "monday": "Closed",
-        "tuesday": "11:30-15:00, 17:30-22:00",
-        "wednesday": "11:30-15:00, 17:30-22:00",
-        "thursday": "11:30-15:00, 17:30-22:00",
-        "friday": "11:30-15:00, 17:30-22:00",
-        "saturday": "11:30-15:00, 17:30-22:00",
-        "sunday": "11:30-15:00, 17:30-22:00"
-      },
-      "description": "Ranked among the world's top 100 pizzerias, Pizza Strada is known for perfectly executed wood-fired classics and seasonal specials. They use smoked mozzarella on their Hawaiian pizza for added depth.",
-      "features": ["World-ranked", "Wood-fired oven", "Seasonal specials", "Premium ingredients"]
-    },
-    {
-      "name": "Tonari no Pizza",
-      "address": "1-1-6 Higashi-Gotanda, Shinagawa-ku, Tokyo 141-0022",
-      "website": "https://www.tonari-no-pizza.com",
-      "phone": "+81 3-3280-0112",
-      "specialty": "Aloha (tomato sauce, mozzarella, ham, pineapple, sweet corn)",
-      "price_range": "€",
-      "rating": 4.2,
-      "hours": {
-        "monday": "11:00-22:00",
-        "tuesday": "11:00-22:00",
-        "wednesday": "11:00-22:00",
-        "thursday": "11:00-22:00",
-        "friday": "11:00-22:00",
-        "saturday": "11:00-22:00",
-        "sunday": "11:00-22:00"
-      },
-      "description": "Casual neighborhood pizzeria offering affordable Japanese-style pizzas. Their Hawaiian pizza includes sweet corn, a popular topping in Japan.",
-      "features": ["Budget-friendly", "Japanese-style", "Delivery available", "Casual dining"]
-    },
-    {
-      "name": "The Pizza Bar on 38th",
-      "address": "38F Mandarin Oriental Tokyo, 2-1-1 Nihonbashi-Muromachi, Chuo-ku, Tokyo 103-8328",
-      "website": "https://www.mandarinoriental.com/tokyo/nihonbashi/fine-dining/restaurants/italian-cuisine/pizza-bar-on-38th",
-      "phone": "+81 3-3270-8188",
-      "specialty": "Ananas (San Marzano tomatoes, buffalo mozzarella, prosciutto cotto, pineapple confit, fresh basil)",
-      "price_range": "€€€€",
-      "rating": 4.8,
-      "hours": {
-        "monday": "17:30-22:00",
-        "tuesday": "17:30-22:00",
-        "wednesday": "17:30-22:00",
-        "thursday": "17:30-22:00",
-        "friday": "17:30-22:00",
-        "saturday": "17:30-22:00",
-        "sunday": "17:30-22:00"
-      },
-      "description": "Luxury pizzeria located on the 38th floor of the Mandarin Oriental Hotel, ranked 16th in the world by 50 Top Pizza. Chef Daniele Cason's Hawaiian pizza features pineapple confit for an elegant take on the classic.",
-      "features": ["World-class ranking", "Counter seating only", "Skyline views", "Luxury dining experience"]
     }
-  ],
-  "last_updated": "2024-10-01",
-  "disclaimer": "Information may have changed since the last update. Please check with the establishments directly for the most current menu offerings and details."
+  ]
 }
