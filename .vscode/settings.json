@@ -49,9 +49,4 @@
     "[go]": {
         "editor.fontSize": 14,
     },
-    "python.defaultInterpreterPath": "~/.venv/bin/python",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
 }
