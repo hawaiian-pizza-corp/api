@@ -1,1 +1,1 @@
-# pineapple pizza api
+# Pineapple Pizza Api
